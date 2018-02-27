@@ -68,7 +68,7 @@
 «The [MappedKey:Attack] button is for attacking» и т.д., что в конечном итоге будет выглядеть как:
 «The Right Trigger button is for attacking.»
 
-Как долго вы закончили перевод текста в .txt файлах, смените
+После того, как вы закончили перевод текста в .txt файлах, смените
 название «English_» на новый язык.
 
 Например, «English_UI_messages.txt» вы можете изменить
