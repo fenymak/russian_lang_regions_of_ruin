@@ -1,521 +1,521 @@
-Lacerated Scalp%
-Grazed Scalp%
-Cut Scalp%
-Bruised Scalp%
-Split Scalp%
-Punctured Scalp%
-Contused Scalp%
-Lacerated Face%
-Grazed Face%
-Cut Face%
-Bruised Face%
-Split Face%
-Punctured Face%
-Contused Face%
-Lacerated Neck%
-Grazed Neck%
-Cut Neck%
-Bruised Neck%
-Split Neck%
-Punctured Neck%
-Contused Neck%
-Lacerated Collar%
-Grazed Collar%
-Cut Collar%
-Bruised Collar%
-Split Collar%
-Punctured Collar%
-Contused Collar%
-Lacerated Shoulder%
-Grazed Shoulder%
-Cut Shoulder%
-Bruised Shoulder%
-Split Shoulder%
-Punctured Shoulder%
-Contused Shoulder%
-Lacerated Arm%
-Grazed Arm%
-Cut Arm%
-Bruised Arm%
-Split Arm%
-Punctured Arm%
-Contused Arm%
-Lacerated Elbow%
-Grazed Elbow%
-Cut Elbow%
-Bruised Elbow%
-Split Elbow%
-Punctured Elbow%
-Contused Elbow%
-Lacerated Forearm%
-Grazed Forearm%
-Cut Forearm%
-Bruised Forearm%
-Split Forearm%
-Punctured Forearm%
-Contused Forearm%
-Lacerated Wrist%
-Grazed Wrist%
-Cut Wrist%
-Bruised Wrist%
-Split Wrist%
-Punctured Wrist%
-Contused Wrist%
-Lacerated Hand%
-Grazed Hand%
-Cut Hand%
-Bruised Hand%
-Split Hand%
-Punctured Hand%
-Contused Hand%
-Lacerated Chest%
-Grazed Chest%
-Cut Chest%
-Bruised Chest%
-Split Chest%
-Punctured Chest%
-Contused Chest%
-Lacerated Abdomen%
-Grazed Abdomen%
-Cut Abdomen%
-Bruised Abdomen%
-Split Abdomen%
-Punctured Abdomen%
-Contused Abdomen%
-Lacerated Waist%
-Grazed Waist%
-Cut Waist%
-Bruised Waist%
-Split Waist%
-Punctured Waist%
-Contused Waist%
-Lacerated Thigh%
-Grazed Thigh%
-Cut Thigh%
-Bruised Thigh%
-Split Thigh%
-Punctured Thigh%
-Contused Thigh%
-Lacerated Knee%
-Grazed Knee%
-Cut Knee%
-Bruised Knee%
-Split Knee%
-Punctured Knee%
-Contused Knee%
-Lacerated Calf%
-Grazed Calf%
-Cut Calf%
-Bruised Calf%
-Split Calf%
-Punctured Calf%
-Contused Calf%
-Lacerated Shin%
-Grazed Shin%
-Cut Shin%
-Bruised Shin%
-Split Shin%
-Punctured Shin%
-Contused Shin%
-Lacerated Ankle%
-Grazed Ankle%
-Cut Ankle%
-Bruised Ankle%
-Split Ankle%
-Punctured Ankle%
-Contused Ankle%
-Lacerated Foot%
-Grazed Foot%
-Cut Foot%
-Bruised Foot%
-Split Foot%
-Punctured Foot%
-Contused Foot%
-Lacerated Buttocks%
-Grazed Buttocks%
-Cut Buttocks%
-Bruised Buttocks%
-Split Buttocks%
-Punctured Buttocks%
-Contused Buttocks%
-Lacerated Upperback%
-Grazed Upperback%
-Cut Upperback%
-Bruised Upperback%
-Split Upperback%
-Punctured Upperback%
-Contused Upperback%
-Lacerated Lowerback%
-Grazed Lowerback%
-Cut Lowerback%
-Bruised Lowerback%
-Split Lowerback%
-Punctured Lowerback%
-Contused Lowerback%
-Lacerated Leftside%
-Grazed Leftside%
-Cut Leftside%
-Bruised Leftside%
-Split Leftside%
-Punctured Leftside%
-Contused Leftside%
-Lacerated Rightside%
-Grazed Rightside%
-Cut Rightside%
-Bruised Rightside%
-Split Rightside%
-Punctured Rightside%
-Contused Rightside%
-Severed Scalp%
-Mangled Scalp%
-Damaged Scalp%
-Paralysed Scalp%
-Crushed Scalp%
-Deformed Scalp%
-Mutilated Scalp%
-Severed Face%
-Mangled Face%
-Damaged Face%
-Paralysed Face%
-Crushed Face%
-Deformed Face%
-Mutilated Face%
-Severed Neck%
-Mangled Neck%
-Damaged Neck%
-Paralysed Neck%
-Crushed Neck%
-Deformed Neck%
-Mutilated Neck%
-Severed Collar%
-Mangled Collar%
-Damaged Collar%
-Paralysed Collar%
-Crushed Collar%
-Deformed Collar%
-Mutilated Collar%
-Severed Shoulder%
-Mangled Shoulder%
-Damaged Shoulder%
-Paralysed Shoulder%
-Crushed Shoulder%
-Deformed Shoulder%
-Mutilated Shoulder%
-Severed Arm%
-Mangled Arm%
-Damaged Arm%
-Paralysed Arm%
-Crushed Arm%
-Deformed Arm%
-Mutilated Arm%
-Severed Elbow%
-Mangled Elbow%
-Damaged Elbow%
-Paralysed Elbow%
-Crushed Elbow%
-Deformed Elbow%
-Mutilated Elbow%
-Severed Forearm%
-Mangled Forearm%
-Damaged Forearm%
-Paralysed Forearm%
-Crushed Forearm%
-Deformed Forearm%
-Mutilated Forearm%
-Severed Wrist%
-Mangled Wrist%
-Damaged Wrist%
-Paralysed Wrist%
-Crushed Wrist%
-Deformed Wrist%
-Mutilated Wrist%
-Severed Hand%
-Mangled Hand%
-Damaged Hand%
-Paralysed Hand%
-Crushed Hand%
-Deformed Hand%
-Mutilated Hand%
-Severed Chest%
-Mangled Chest%
-Damaged Chest%
-Paralysed Chest%
-Crushed Chest%
-Deformed Chest%
-Mutilated Chest%
-Severed Abdomen%
-Mangled Abdomen%
-Damaged Abdomen%
-Paralysed Abdomen%
-Crushed Abdomen%
-Deformed Abdomen%
-Mutilated Abdomen%
-Severed Waist%
-Mangled Waist%
-Damaged Waist%
-Paralysed Waist%
-Crushed Waist%
-Deformed Waist%
-Mutilated Waist%
-Severed Thigh%
-Mangled Thigh%
-Damaged Thigh%
-Paralysed Thigh%
-Crushed Thigh%
-Deformed Thigh%
-Mutilated Thigh%
-Severed Knee%
-Mangled Knee%
-Damaged Knee%
-Paralysed Knee%
-Crushed Knee%
-Deformed Knee%
-Mutilated Knee%
-Severed Calf%
-Mangled Calf%
-Damaged Calf%
-Paralysed Calf%
-Crushed Calf%
-Deformed Calf%
-Mutilated Calf%
-Severed Shin%
-Mangled Shin%
-Damaged Shin%
-Paralysed Shin%
-Crushed Shin%
-Deformed Shin%
-Mutilated Shin%
-Severed Ankle%
-Mangled Ankle%
-Damaged Ankle%
-Paralysed Ankle%
-Crushed Ankle%
-Deformed Ankle%
-Mutilated Ankle%
-Severed Foot%
-Mangled Foot%
-Damaged Foot%
-Paralysed Foot%
-Crushed Foot%
-Deformed Foot%
-Mutilated Foot%
-Severed Buttocks%
-Mangled Buttocks%
-Damaged Buttocks%
-Paralysed Buttocks%
-Crushed Buttocks%
-Deformed Buttocks%
-Mutilated Buttocks%
-Severed Upperback%
-Mangled Upperback%
-Damaged Upperback%
-Paralysed Upperback%
-Crushed Upperback%
-Deformed Upperback%
-Mutilated Upperback%
-Severed Lowerback%
-Mangled Lowerback%
-Damaged Lowerback%
-Paralysed Lowerback%
-Crushed Lowerback%
-Deformed Lowerback%
-Mutilated Lowerback%
-Severed Leftside%
-Mangled Leftside%
-Damaged Leftside%
-Paralysed Leftside%
-Crushed Leftside%
-Deformed Leftside%
-Mutilated Leftside%
-Severed Rightside%
-Mangled Rightside%
-Damaged Rightside%
-Paralysed Rightside%
-Crushed Rightside%
-Deformed Rightside%
-Mutilated Rightside%
-Shattered Skull%
-Broken Skull%
-Fractured Skull%
-Cracked Skull%
-Splintered Skull%
-Shattered Jaw%
-Broken Jaw%
-Fractured Jaw%
-Cracked Jaw%
-Splintered Jaw%
-Shattered Neck%
-Broken Neck%
-Fractured Neck%
-Cracked Neck%
-Splintered Neck%
-Shattered Upperspine%
-Broken Upperspine%
-Fractured Upperspine%
-Cracked Upperspine%
-Splintered Upperspine%
-Shattered Scapula%
-Broken Scapula%
-Fractured Scapula%
-Cracked Scapula%
-Splintered Scapula%
-Shattered Clavicle%
-Broken Clavicle%
-Fractured Clavicle%
-Cracked Clavicle%
-Splintered Clavicle%
-Shattered Humerus%
-Broken Humerus%
-Fractured Humerus%
-Cracked Humerus%
-Splintered Humerus%
-Shattered Ulna%
-Broken Ulna%
-Fractured Ulna%
-Cracked Ulna%
-Splintered Ulna%
-Shattered Finger%
-Broken Finger%
-Fractured Finger%
-Cracked Finger%
-Splintered Finger%
-Shattered Sternum%
-Broken Sternum%
-Fractured Sternum%
-Cracked Sternum%
-Splintered Sternum%
-Shattered Rib%
-Broken Rib%
-Fractured Rib%
-Cracked Rib%
-Splintered Rib%
-Shattered Spinal Column%
-Broken Spinal Column%
-Fractured Spinal Column%
-Cracked Spinal Column%
-Splintered Spinal Column%
-Shattered Lowerspine%
-Broken Lowerspine%
-Fractured Lowerspine%
-Cracked Lowerspine%
-Splintered Lowerspine%
-Shattered Sacrum%
-Broken Sacrum%
-Fractured Sacrum%
-Cracked Sacrum%
-Splintered Sacrum%
-Shattered Pelvis%
-Broken Pelvis%
-Fractured Pelvis%
-Cracked Pelvis%
-Splintered Pelvis%
-Shattered Femur%
-Broken Femur%
-Fractured Femur%
-Cracked Femur%
-Splintered Femur%
-Shattered Knee%
-Broken Knee%
-Fractured Knee%
-Cracked Knee%
-Splintered Knee%
-Shattered Tibia%
-Broken Tibia%
-Fractured Tibia%
-Cracked Tibia%
-Splintered Tibia%
-Shattered Fibula%
-Broken Fibula%
-Fractured Fibula%
-Cracked Fibula%
-Splintered Fibula%
-Shattered Foot%
-Broken Foot%
-Fractured Foot%
-Cracked Foot%
-Splintered Foot%
-Shattered Toe%
-Broken Toe%
-Fractured Toe%
-Cracked Toe%
-Splintered Toe%
-Shattered Eyesocket%
-Broken Eyesocket%
-Fractured Eyesocket%
-Cracked Eyesocket%
-Splintered Eyesocket%
-Shattered Tooth%
-Broken Tooth%
-Fractured Tooth%
-Cracked Tooth%
-Splintered Tooth%
-Shattered Ankle%
-Broken Ankle%
-Fractured Ankle%
-Cracked Ankle%
-Splintered Ankle%
-Punctured Brain tissue%
-Torn Brain tissue%
-Ruptured Brain tissue%
-Haemorrhaging Brain tissue%
-Burst Brain tissue%
-Punctured Nerve%
-Torn Nerve%
-Ruptured Nerve%
-Haemorrhaging Nerve%
-Burst Nerve%
-Punctured Lung%
-Torn Lung%
-Ruptured Lung%
-Haemorrhaging Lung%
-Burst Lung%
-Punctured Heart%
-Torn Heart%
-Ruptured Heart%
-Haemorrhaging Heart%
-Burst Heart%
-Punctured Liver%
-Torn Liver%
-Ruptured Liver%
-Haemorrhaging Liver%
-Burst Liver%
-Punctured Spleen%
-Torn Spleen%
-Ruptured Spleen%
-Haemorrhaging Spleen%
-Burst Spleen%
-Punctured Kidney%
-Torn Kidney%
-Ruptured Kidney%
-Haemorrhaging Kidney%
-Burst Kidney%
-Punctured Small Intestine%
-Torn Small Intestine%
-Ruptured Small Intestine%
-Haemorrhaging Small Intestine%
-Burst Small Intestine%
-Punctured Large Intestine%
-Torn Large Intestine%
-Ruptured Large Intestine%
-Haemorrhaging Large Intestine%
-Burst Large Intestine%
-Punctured Pancreas%
-Torn Pancreas%
-Ruptured Pancreas%
-Haemorrhaging Pancreas%
-Burst Pancreas%
-Punctured Gallbladder%
-Torn Gallbladder%
-Ruptured Gallbladder%
-Haemorrhaging Gallbladder%
-Burst Gallbladder%
-Punctured Stomach%
-Torn Stomach%
-Ruptured Stomach%
-Haemorrhaging Stomach%
-Burst Stomach%
-Punctured Esophagus%
-Torn Esophagus%
-Ruptured Esophagus%
-Haemorrhaging Esophagus%
-Burst Esophagus%
+Рваный скальп%
+Расцарапанный скальп%
+Порезанный скальп%
+Побитый скальп%
+Разорванный скальп%
+Пробитый скальп%
+Ушибленный скальп%
+Рваное лицо%
+Расцарапанное лицо%
+Порезанное лицо%
+Побитое лицо%
+Разорванное лицо%
+Пробитое лицо%
+Ушибленное лицо%
+Рваная шея%
+Расцарапанная шея%
+Порезанная шея%
+Побитая шея%
+Разорванная шея%
+Пробитая шея%
+Ушибленная шея%
+Рваная ключица%
+Расцарапанная ключица%
+Порезанная ключица%
+Побитая ключица%
+Разорванная ключица%
+Пробитая ключица%
+Ушибленная ключица%
+Рваная лопатка%
+Расцарапанная лопатка%
+Порезанная лопатка%
+Побитая лопатка%
+Разорванная лопатка%
+Пробитая лопатка%
+Ушибленная лопатка%
+Рваное плечо%
+Расцарапанное плечо%
+Порезанное плечо%
+Побитое плечо%
+Разорванное плечо%
+Пробитое плечо%
+Ушибленное плечо%
+Рваный локоть%
+Расцарапанный локоть%
+Порезанный локоть%
+Побитый локоть%
+Разорванный локоть%
+Пробитый локоть%
+Ушибленный локоть%
+Рваное предплечье%
+Расцарапанное предплечье%
+Порезанное предплечье%
+Побитое предплечье%
+Разорванное предплечье%
+Пробитое предплечье%
+Ушибленное предплечье%
+Рваное запястье%
+Расцарапанное запястье%
+Порезанное запястье%
+Побитое запястье%
+Разорванное запястье%
+Пробитое запястье%
+Ушибленное запястье%
+Рваная рука%
+Расцарапанная рука%
+Порезанная рука%
+Побитая рука%
+Разорванная рука%
+Пробитая рука%
+Ушибленная рука%
+Рваная грудь%
+Расцарапанная грудь%
+Порезанная грудь%
+Побитая грудь%
+Разорванная грудь%
+Пробитая грудь%
+Ушибленная грудь%
+Рваный живот%
+Расцарапанный живот%
+Порезанный живот%
+Побитый живот%
+Разорванный живот%
+Пробитый живот%
+Ушибленный живот%
+Рваная талия%
+Расцарапанная талия%
+Порезанная талия%
+Побитая талия%
+Разорванная талия%
+Пробитая талия%
+Ушибленная талия%
+Рваное бедро%
+Расцарапанное бедро%
+Порезанное бедро%
+Побитое бедро%
+Разорванное бедро%
+Пробитое бедро%
+Ушибленное бедро%
+Рваное колено%
+Расцарапанное колено%
+Порезанное колено%
+Побитое колено%
+Разорванное колено%
+Пробитое колено%
+Ушибленное колено%
+Рваная икра%
+Расцарапанная икра%
+Порезанная икра%
+Побитая икра%
+Разорванная икра%
+Пробитая икра%
+Ушибленная икра%
+Рваная голень%
+Расцарапанная голень%
+Порезанная голень%
+Побитая голень%
+Разорванная голень%
+Пробитая голень%
+Ушибленная голень%
+Рваная лодыжка%
+Расцарапанная лодыжка%
+Порезанная лодыжка%
+Побитая лодыжка%
+Разорванная лодыжка%
+Пробитая лодыжка%
+Ушибленная лодыжка%
+Рваная ступня%
+Расцарапанная ступня%
+Порезанная ступня%
+Побитая ступня%
+Разорванная ступня%
+Пробитая ступня%
+Ушибленная ступня%
+Рваные ягодицы%
+Расцарапанные ягодицы%
+Порезанные ягодицы%
+Побитые ягодицы%
+Разорванные ягодицы%
+Пробитые ягодицы%
+Ушибленные ягодицы%
+Рваная спина%
+Расцарапанная спина%
+Порезанная спина%
+Побитая спина%
+Разорванная спина%
+Пробитая спина%
+Ушибленная спина%
+Рваная поясница%
+Расцарапанная поясница%
+Порезанная поясница%
+Побитая поясница%
+Разорванная поясница%
+Пробитая поясница%
+Ушибленная поясница%
+Рваный левый бок%
+Расцарапанный левый бок%
+Порезанный левый бок%
+Побитый левый бок%
+Разорванный левый бок%
+Пробитый левый бок%
+Ушибленный левый бок%
+Рваный правый бок%
+Расцарапанный правый бок%
+Порезанный правый бок%
+Побитый правый бок%
+Разорванный правый бок%
+Пробитый правый бок%
+Ушибленный правый бок%
+Отрубленный скальп%
+Покалеченный скальп%
+Повреждённый скальп%
+Парализованный скальп%
+Раздробленный скальп%
+Изуродованный скальп%
+Изувеченный скальп%
+Отрубленное лицо%
+Покалеченное лицо%
+Повреждённое лицо%
+Парализованное лицо%
+Раздробленное лицо%
+Изуродованное лицо%
+Изувеченное лицо%
+Отрубленная шея%
+Покалеченная шея%
+Повреждённая шея%
+Парализованная шея%
+Раздробленная шея%
+Изуродованная шея%
+Изувеченная шея%
+Отрубленная ключица%
+Покалеченная ключица%
+Повреждённая ключица%
+Парализованная ключица%
+Раздробленная ключица%
+Изуродованная ключица%
+Изувеченная ключица%
+Отрубленная лопатка%
+Покалеченная лопатка%
+Повреждённая лопатка%
+Парализованная лопатка%
+Раздробленная лопатка%
+Изуродованная лопатка%
+Изувеченная лопатка%
+Отрубленное плечо%
+Покалеченное плечо%
+Повреждённое плечо%
+Парализованное плечо%
+Раздробленное плечо%
+Изуродованное плечо%
+Изувеченное плечо%
+Отрубленный локоть%
+Покалеченный локоть%
+Повреждённый локоть%
+Парализованный локоть%
+Раздробленный локоть%
+Изуродованный локоть%
+Изувеченный локоть%
+Отрубленное предплечье%
+Покалеченное предплечье%
+Повреждённое предплечье%
+Парализованное предплечье%
+Раздробленное предплечье%
+Изуродованное предплечье%
+Изувеченное предплечье%
+Отрубленное запястье%
+Покалеченное запястье%
+Повреждённое запястье%
+Парализованное запястье%
+Раздробленное запястье%
+Изуродованное запястье%
+Изувеченное запястье%
+Отрубленная рука%
+Покалеченная рука%
+Повреждённая рука%
+Парализованная рука%
+Раздробленная рука%
+Изуродованная рука%
+Изувеченная рука%
+Отрубленная грудь%
+Покалеченная грудь%
+Повреждённая грудь%
+Парализованная грудь%
+Раздробленная грудь%
+Изуродованная грудь%
+Изувеченная грудь%
+Отрубленный живот%
+Покалеченный живот%
+Повреждённый живот%
+Парализованный живот%
+Раздробленный живот%
+Изуродованный живот%
+Изувеченный живот%
+Отрубленная талия%
+Покалеченная талия%
+Повреждённая талия%
+Парализованная талия%
+Раздробленная талия%
+Изуродованная талия%
+Изувеченная талия%
+Отрубленное бедро%
+Покалеченное бедро%
+Повреждённое бедро%
+Парализованное бедро%
+Раздробленное бедро%
+Изуродованное бедро%
+Изувеченное бедро%
+Отрубленное колено%
+Покалеченное колено%
+Повреждённое колено%
+Парализованное колено%
+Раздробленное колено%
+Изуродованное колено%
+Изувеченное колено%
+Отрубленная икра%
+Покалеченная икра%
+Повреждённая икра%
+Парализованная икра%
+Раздробленная икра%
+Изуродованная икра%
+Изувеченная икра%
+Отрубленная голень%
+Покалеченная голень%
+Повреждённая голень%
+Парализованная голень%
+Раздробленная голень%
+Изуродованная голень%
+Изувеченная голень%
+Отрубленная лодыжка%
+Покалеченная лодыжка%
+Повреждённая лодыжка%
+Парализованная лодыжка%
+Раздробленная лодыжка%
+Изуродованная лодыжка%
+Изувеченная лодыжка%
+Отрубленная ступня%
+Покалеченная ступня%
+Повреждённая ступня%
+Парализованная ступня%
+Раздробленная ступня%
+Изуродованная ступня%
+Изувеченная ступня%
+Отрубленные ягодицы%
+Покалеченные ягодицы%
+Повреждённые ягодицы%
+Парализованные ягодицы%
+Раздробленные ягодицы%
+Изуродованные ягодицы%
+Изувеченные ягодицы%
+Отрубленная спина%
+Покалеченная спина%
+Повреждённая спина%
+Парализованная спина%
+Раздробленная спина%
+Изуродованная спина%
+Изувеченная спина%
+Отрубленная поясница%
+Покалеченная поясница%
+Повреждённая поясница%
+Парализованная поясница%
+Раздробленная поясница%
+Изуродованная поясница%
+Изувеченная поясница%
+Отрубленный левый бок%
+Покалеченный левый бок%
+Повреждённый левый бок%
+Парализованный левый бок%
+Раздробленный левый бок%
+Изуродованный левый бок%
+Изувеченный левый бок%
+Отрубленный правый бок%
+Покалеченный правый бок%
+Повреждённый правый бок%
+Парализованный правый бок%
+Раздробленный правый бок%
+Изуродованный правый бок%
+Изувеченный правый бок%
+Раздробленный череп%
+Сломанный череп%
+Трещиноватый череп%
+Треснувший череп%
+Расколотый череп%
+Раздробленная челюсть%
+Сломанная челюсть%
+Трещиноватая челюсть%
+Треснувшая челюсть%
+Расколотая челюсть%
+Раздробленная шея%
+Сломанная шея%
+Трещиноватая шея%
+Треснувшая шея%
+Расколотая шея%
+Раздробленный верх позвоночника%
+Сломанный верх позвоночника%
+Трещиноватый верх позвоночника%
+Треснувший верх позвоночника%
+Расколотый верх позвоночника%
+Раздробленная лопатка%
+Сломанная лопатка%
+Трещиноватая лопатка%
+Треснувшая лопатка%
+Расколотая лопатка%
+Раздробленная ключица%
+Сломанная ключица%
+Трещиноватая ключица%
+Треснувшая ключица%
+Расколотая ключица%
+Раздробленная плечевая кость%
+Сломанная плечевая кость%
+Трещиноватая плечевая кость%
+Треснувшая плечевая кость%
+Расколотая плечевая кость%
+Раздробленная локтевая кость%
+Сломанная локтевая кость%
+Трещиноватая локтевая кость%
+Треснувшая локтевая кость%
+Расколотая локтевая кость%
+Раздробленный палец руки%
+Сломанный палец руки%
+Трещиноватый палец руки%
+Треснувший палец руки%
+Расколотый палец руки%
+Раздробленная грудина%
+Сломанная грудина%
+Трещиноватая грудина%
+Треснувшая грудина%
+Расколотая грудина%
+Раздробленное ребро%
+Сломанное ребро%
+Трещиноватое ребро%
+Треснувшее ребро%
+Расколотое ребро%
+Раздробленный позвоночник%
+Сломанный позвоночник%
+Трещиноватый позвоночник%
+Треснувший позвоночник%
+Расколотый позвоночник%
+Раздробленный низ позвоночника%
+Сломанный низ позвоночника%
+Трещиноватый низ позвоночника%
+Треснувший низ позвоночника%
+Расколотый низ позвоночника%
+Раздробленный крестец%
+Сломанный крестец%
+Трещиноватый крестец%
+Треснувший крестец%
+Расколотый крестец%
+Раздробленный таз%
+Сломанный таз%
+Трещиноватый таз%
+Треснувший таз%
+Расколотый таз%
+Раздробленная бедренная кость%
+Сломанная бедренная кость%
+Трещиноватая бедренная кость%
+Треснувшая бедренная кость%
+Расколотая бедренная кость%
+Раздробленное колено%
+Сломанное колено%
+Трещиноватое колено%
+Треснувшее колено%
+Расколотое колено%
+Раздробленная большеберцовая кость%
+Сломанная большеберцовая кость%
+Трещиноватая большеберцовая кость%
+Треснувшая большеберцовая кость%
+Расколотая большеберцовая кость%
+Раздробленная малоберцовая кость%
+Сломанная малоберцовая кость%
+Трещиноватая малоберцовая кость%
+Треснувшая малоберцовая кость%
+Расколотая малоберцовая кость%
+Раздробленная ступня%
+Сломанная ступня%
+Трещиноватая ступня%
+Треснувшая ступня%
+Расколотая ступня%
+Раздробленный палец ноги%
+Сломанный палец ноги%
+Трещиноватый палец ноги%
+Треснувший палец ноги%
+Расколотый палец ноги%
+Раздробленная глазница%
+Сломанная глазница%
+Трещиноватая глазница%
+Треснувшая глазница%
+Расколотая глазница%
+Раздробленный зуб%
+Сломанный зуб%
+Трещиноватый зуб%
+Треснувший зуб%
+Расколотый зуб%
+Раздробленная лодыжка%
+Сломанная лодыжка%
+Трещиноватая лодыжка%
+Треснувшая лодыжка%
+Расколотая лодыжка%
+Пробитая мозговая ткань%
+Порванная мозговая ткань%
+Разорванная мозговая ткань%
+Кровоточащая мозговая ткань%
+Полопавшаяся мозговая ткань%
+Пробитый нерв%
+Порванный нерв%
+Разорванный нерв%
+Кровоточащий нерв%
+Полопавшийся нерв%
+Пробитое лёгкое%
+Порванное лёгкое%
+Разорванное лёгкое%
+Кровоточащее лёгкое%
+Полопавшееся лёгкое%
+Пробитое сердце%
+Порванное сердце%
+Разорванное сердце%
+Кровоточащее сердце%
+Полопавшееся сердце%
+Пробитая печень%
+Порванная печень%
+Разорванная печень%
+Кровоточащая печень%
+Полопавшаяся печень%
+Пробитая селезёнка%
+Порванная селезёнка%
+Разорванная селезёнка%
+Кровоточащая селезёнка%
+Полопавшаяся селезёнка%
+Пробитая почка%
+Порванная почка%
+Разорванная почка%
+Кровоточащая почка%
+Полопавшаяся почка%
+Пробитая тонкая кишка%
+Порванная тонкая кишка%
+Разорванная тонкая кишка%
+Кровоточащая тонкая кишка%
+Полопавшаяся тонкая кишка%
+Пробитая толстая кишка%
+Порванная толстая кишка%
+Разорванная толстая кишка%
+Кровоточащая толстая кишка%
+Полопавшаяся толстая кишка%
+Пробитая поджелудочная железа%
+Порванная поджелудочная железа%
+Разорванная поджелудочная железа%
+Кровоточащая поджелудочная железа%
+Полопавшаяся поджелудочная железа%
+Пробитый желчный пузырь%
+Порванный желчный пузырь%
+Разорванный желчный пузырь%
+Кровоточащий желчный пузырь%
+Полопавшийся желчный пузырь%
+Пробитый желудок%
+Порванный желудок%
+Разорванный желудок%
+Кровоточащий желудок%
+Полопавшийся желудок%
+Пробитый пищевод%
+Порванный пищевод%
+Разорванный пищевод%
+Кровоточащий пищевод%
+Полопавшийся пищевод%
