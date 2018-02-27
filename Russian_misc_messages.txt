@@ -1,0 +1,516 @@
+attacking%
+throwing%
+shielding%
+power hitting%
+melee attacks%
+ranged attacks%
+base health%
+enable this ability to make standard quick slashes with the [MappedKey:Attack]%
+enable this ability to make three faster consecutive hits with 30$ reduced damage.%
+enable this ability to increase the force your attacks push enemies back.%
+enable this ability to never get blocked by shields, but with 25$ reduced damage.%
+add bleeding damage over 6 seconds to enemies, doubling your total damage.%
+double your chance of getting a critical strike with quick slashes.%
+double all armour penetration when quick slashing.%
+increase the speed of all quick slashes by 20$.%
+unlock this ability to be able to attack and dash simultaneously.%
+do four times damage to stunned enemies instead of two times.%
+surprise melee attacks on enemies deal 12x damage.%
+Move quicker when sneaking, stay hidden easier, and inflict poison.%
+when using the unblockable ability, hitting shielding enemies stuns them instead of you.%
+all melee strikes have no cleaving limit.%
+mastery of blades, double all damage done with melee strikes.%
+enable this skill to be able to use throwing axes. Hold and release the [MappedKey:Throw]%
+enable this ability to greatly increase the speed that you can throw axes.%
+enable this ability to use a grappling axe that can grab and pull enemies to yourself.%
+enable this ability to throw two axes at once at a slightly reduced speed.%
+reduce the cooldown of all throwing by 20$.%
+increase the maximum distance you can throw your axes.%
+double the force that your axes push enemies back%
+double the chance of getting a critical strike with a throwing axe.%
+more damage the longer you aim your axe (doubles your damage at maximum distance).%
+add bleeding damage to enemies over 6 seconds, doubling your total damage.%
+hitting enemies with a grappling axe will stun them.%
+mastery of axe throwing, doubles all damage dealt by throwing axes.%
+allows you to throw three axes at once instead of two.%
+enable this ability to use your shield with the [MappedKey:Shield]%
+enable this ability to regenerate health whilst shielding, but at a lower rate.%
+enable this ability to block 100$ of damage when shielding, but move much slower.%
+enable this ability to shieldbash when you start shielding.%
+double all of your base element resistances.%
+can dash whilst shielding to charge and stun enemies.%
+move twice as fast when shielding.%
+halve the length of stuns received when shielding.%
+reduce the chance of being wounded by 50$%
+enemies get stunned twice as long when being blocked or bashed by your shield.%
+double the armour rating of your helms.%
+double the armour rating of your body armour.%
+reflect 100$ of received damage back onto enemies.%
+hitting enemies with your shield does damage based off your armour rating.%
+double the armour rating of your shields.%
+enable this ability to do a three times damage power hit with the [MappedKey:PowerAttack]%
+enable this ability to ground slam, knocking enemies into the air and doubling stun length.%
+enable this ability to double the damage of power hits, but gets blocked by shields.%
+enable this ability to create a blowing force with your power hits, doing 25$ of your total damage.%
+increase the speed of power hits by 20$.%
+power hits do four times damage to stunned enemies instead of two times.%
+double the push force of all power hits.%
+double the time enemies are stunned by power hits.%
+reduce the stamina cost for power hits by 30$%
+power hits have twice the chance to critical hit when an enemy is stunned.%
+critical hits are doubled in damage for power hits.%
+power hits ignore all armour.%
+blowing force does 50$ of your power hit damage.%
+power hitting a stunned enemy has a 10$ chance to KO (bosses not included).%
+слухи%
+оккупация%
+совет%
+торговать%
+вылечить%
+починить%
+следовать%
+ждать%
+путешествовать%
+играть%
+характеристики%
+Нажмите [MappedKey:Skills], чтобы отправиться%
+откройте любое меню, чтобы получить уровень%
+вялый%
+очень медленно%
+медленно%
+нормально%
+brisk%
+быстро%
+очень быстро%
+стремительно%
+головокружительно%
+очень слабый%
+слабый%
+regular%
+sturdy%
+tough%
+very tough%
+juggernaut%
+unstoppable%
+normal%
+defensive%
+aggressive%
+follow%
+wait%
+recruit%
+Small bandages will heal one small wound.%
+Large bandages heal one small and large wound.%
+Potions heal all wounds and status effects.%
+leather cap%
+iron helm%
+bronze helm%
+steel helm%
+adamantine helm%
+leather armour%
+iron armour%
+bronze plate%
+steel platemail%
+adamantine armour%
+wooden buckler%
+iron heater%
+bronze shield%
+steel defender%
+adamantine heater%
+sword%
+shortaxe%
+greatsword%
+greataxe%
+warhammer%
+polearm%
+The campfire is where you train and upgrade your skills. It also improves how much area you can scout at one time.%
+upgrading this building will increase your maximum resource storage capacity, allowing you to hold and maintain much more resources.%
+the tavern will attract nearby adventurers to hire, and generate profit, depending on the size of the tavern.%
+the blacksmith can be used to dismantle and forge new equipment, with an improved forge you can build superior armour and weaponry.%
+enables crafting of useful potions and bandages to use when away from your settlement.%
+used to refine ore into useful metals, the better your refinery, the better materials you can glean.%
+the trade depot will provide a place for traders to come and unload goods. A larger depot will attract more caravans.%
+the library will help you to study completed volumes of books you find to gain greater knowledge.%
+the market will attract labourers to come and trade their goods. you can buy and sell resources here.%
+the runeforge will enable you to imbue items with magical properties, using essence from dissolved items.%
+костёр%
+хранилище%
+таверна%
+кузница%
+аптека%
+переработчик%
+торговая станция%
+библиотека%
+рынок%
+рунная кузница%
+imbued essence%
+fire resistance%
+cold resistance%
+poison resistance%
+electric resistance%
+strength%
+dexterity%
+constitution%
+ %
+poison%
+burning%
+bleed%
+pushback%
+freezing%
+stunning%
+conversion%
+dashing%
+shockwave%
+fire%
+life steal%
+cold%
+ %
+ %
+ %
+ %
+ %
+ %
+ %
+ %
+throwing damage%
+overall damage%
+reflection%
+regeneration%
+stun chance%
+resistance%
+ %
+ %
+ %
+ %
+ %
+ %
+the easiest dfficulty, for weaklings, not for dwarves.%
+the regular difficulty, for the common folk.%
+hard difficulty, for those who feel manly.%
+the masochist difficulty, unlocked when beating the game.%
+Вы в прекрасном состоянии%
+Вы в хорошем состоянии%
+Вы в неплохом состоянии%
+Слегка побит%
+Несильно ранен%
+Ранения%
+Тяжело ранен%
+Корёжится от сильной боли%
+Теряет сознание от сильной боли%
+Борется за свою жизнь%
+В предсмертном состоянии%
+Crushed unto death%
+Отравленная кровь%
+Сильное отравление%
+Серьёзное отравление%
+Смертельно болен%
+you're stuffed mate!%
+Горение%
+Серьёзное горение%
+Пылание%
+Объят огнём%
+Гори, детка, гори!!%
+фили%
+дерни%
+вилли%
+нюхач%
+бобслоу%
+дерик%
+кёрн%
+свиф%
+ниша%
+кили%
+бофур%
+кофур%
+когнум%
+хорек%
+вэлки%
+баки%
+лоб%
+нодди%
+флетч%
+letching%
+кург%
+риг%
+гурн%
+тугом%
+гором%
+cog%
+kogrem%
+sledge%
+rocky%
+thwup%
+thwap%
+nugget%
+stehl%
+oren%
+cuff%
+cruck%
+loofy%
+когнум%
+durk%
+pobmur%
+ned%
+kurk%
+derk%
+lofur%
+zarn%
+trunk%
+flupe%
+darky%
+cuts%
+polma%
+peft%
+murg%
+mug%
+helk%
+mork%
+dren%
+dane%
+lucky%
+nifty%
+ryne%
+gurt%
+bert%
+rolph%
+hicup%
+underho%
+ofta%
+bombur%
+porp%
+crane%
+lobber%
+cach%
+kerid%
+flunk%
+snob%
+knuckle%
+bump%
+axel%
+rellie%
+gren%
+yort%
+vane%
+sneckle%
+kur%
+virn%
+venom%
+sil%
+remington%
+cart%
+tom%
+bill%
+iren%
+baka%
+borin%
+sleeper%
+greeny%
+bunky%
+vile%
+zark%
+zorn%
+zane%
+vane%
+menam%
+urist%
+cog%
+баки%
+belt%
+fry%
+chinny%
+hecky%
+harold%
+jed%
+bolt%
+pickle%
+grid%
+unem%
+berid%
+offur%
+bilfur%
+bored%
+obek%
+стремительный выстрел%
+the nuisance%
+the blindshot%
+potshotty%
+stray arrow%
+bullseye%
+the cluts%
+duck bait%
+frog eye%
+razor%
+the heavy%
+sledgehammer%
+rockmallet%
+boulder%
+the sturdy%
+irontoe%
+cleffhit%
+bronze beard%
+the weighty%
+the rhino%
+the brave%
+the stupid%
+quickfoot%
+the rallier%
+tripover%
+the courageous%
+the spelunker%
+delver%
+knocked%
+empty ears%
+beard cutter%
+the bold%
+strong arm%
+мастера меча%
+the thrower%
+the wishful%
+the boast%
+throw fist%
+праща%
+boulder thrower%
+отравитель%
+the sneaky%
+the razor%
+боль%
+backstabber%
+the lofty%
+swiftfoot%
+darkwalker%
+the lost%
+the secretive%
+the deadshot%
+яблочко%
+механик%
+the trigger-happy%
+баллиста%
+the cranky%
+bolted%
+бронза%
+латунный болт%
+backfired%
++ найдена новая страница%
+цена%
+мощность снаряда%
+урон%
+отражение%
+регенерация%
+шанс оглушения%
+сопротивление%
+яд%
+ожог%
+bleed%
+force%
+freezing%
+stunning%
+conversion%
+dashing%
+shock%
+огонь%
+вампиризм%
+холод%
+шлем%
+броня%
+лёгкое оружие%
+среднее оружие%
+тяжёлое оружие%
+щит%
+амулет%
+кольцо%
+малая повязка%
+большая повязка%
+зелье%
+урон%
+макс. разрубание%
+шанс крита%
+крит. урон%
+пробитие брони%
+рейтинг брони%
+сопр. физ. ур.%
+сопр. огню%
+сопр. холоду%
+сопр. яду%
+сопр. электр.%
+сила%
+ловкость%
+телосложение%
+Increase your maximum storage capacity by 250%
++1 blacksmith bonus roll%
+Increase your maximum storage capacity by 500%
+Triple your chances of finding book segments%
+Increase your maximum storage capacity by 1000%
+Glean twice as much essence when dissolving magic items%
+Boost your exploration range%
+Reduce Vendor prices by 50$%
+Reduce Market prices by 50$%
+Get +5 workers for your settlement%
+Glean twice as many resources from your refinery%
+increase the quality of your forged items by 50$%
+Add 1,000 to the total essence you can imbue with your runeforge%
+Double the Maximum Health and Damage of Companions%
+Hold over 1,000,000 Copper at one time%
+Hold over 1,000,000 Iron at one time%
+Hold over 1,000,000 Bronze at one time%
+Hold over 1,000,000 Silver at one time%
+Hold over 1,000,000 Gold at one time%
+Hold over 1,000,000 Adamantine at one time%
+Have an Exploration rate over 500$ p/s%
+Have a Mining rate over 10,000 p/s%
+Have a Refining rate over 20,000 p/s%
+Have up to 20 Workers in one role%
+Collect over 10,000,000 Silver%
+Collect over 10,000,000 Gold%
+Collect over 10,000,000 Adamantine%
+Purchase all Artefacts%
+2x Ore Finding%
++50$ Refiner Work Rate%
++50$ Explorer Speed%
+2x Refinery Yield%
+-20$ Shop Prices%
++100$ Miner Work Rate%
+x5 Worker Rate%
+-50$ Shop Prices%
++1 Vein Quality%
++2 Vein Quality%
+2x Mining Yield%
+10x Copper Processing Speed%
+empty%
+autosave%
+Dwarven kin had led a Golden age of complacency across the continent. The great Centaur-Human war, however, caused the Dwarves to shun the overworld, their Caste Lords locked themselves into the mountains for centuries. When the doors finally opened, ending centuries of silence, all was not as it should have been...%
+What the dwarves discovered was that the entire continent had changed. Neither human nor centaur remained. The land, once bustling with activity and trade, was now peppered with Goblin, Lich, and Kobold enclaves. The doors now opened, countless thousands of covetous eyes now turned to the Undercities of the dwarves...%
+Dwarven kin fought fiercely, but were soon exiled to the surface, enslaved, captured and ousted from their homes. Now, far from their mountain cores, far from their heritage, the Dwarves slowly sought to reconquer the lands...%
+With the Dwarven race scattered, mere refugees and vagabonds, It will take a hero to bring them together, and restore the once mighty Dwarven Kingdom...%
+press [MappedKey:Dash] to skip%
+< press any key to continue >%
+With the wagon finally fixed, you head west. The area near the vale is lush and expansive. More than enough to house hundreds of dwarves...%
+you are unsure how many dwarves remain in these lands, but a strong rally shall beckon them, and your colony will grow...%
+empty%
+autosave%
+load game?%
+yes%
+no%
+with the goblin king dead, and the homeward passage revealed, the dwarf kind look to the mountain of rothgar.
+
+now the true journey begins for the dwarves. to expedition the depths, to find their ancestors, to become what they were destined for.
+
+but who will lead these refugees, who will guide them through the darkness, to establish dwarf kind once and for all...%
+congratulations, you've conquered this region, and liberated your kin.%
+hitting a stunned enemy doubles the damage of your hit%
+when you block a regular attack you reduce the damage taken by 90$ and stun the attacker%
+power hits are three times as powerful as a normal hit%
+rumours are a good way to find more places to explore%
+your critical chance is doubled when hitting a stunned or unsuspecting foe%
+some enemies get stunned longer than others%
+you can change the difficutly at any time in the option settings%
+when sneaking you can almost hide indefinitely behind objects like crates and chests%
+throwing axes can hit multiple enemies at once, if your foes stand close together%
+you can dodge almost anything when you dash, including oncoming projectiles%
+dont forget to use your shield to block arrows and spears, it deflects them entirely%
+when sneaking, enemeis will not detect you if they are facing the other way%
+regular attacks will stop your power hits, but projectiles wont%
+without critical strikes, you can get up to 18 times damage with a single hit if you plan it right%
+some foes block more than 50$ with their armour, which makes armour penetration more useful%
+defensive companions receive less damage, but wont spot enemies until they're close%
+aggressive companions wont hesitate to attack, but will spot enemies from further away%
+with 2,000 essence you can enchant 100$ resistance into any element%
+all hope is lost%
