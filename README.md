@@ -50,9 +50,9 @@
 перевести. Если вам нужно использовать символ «%», используйте «$»
 вместо него, который будет заменён в игре на «%».
 
-Например, "Hello.%" нужно просто заменить на "Bonjour.%"
+Например, «Hello.%» нужно просто заменить на «Bonjour.%»
 Всегда оставляйте символ «%» в конце сегмента.
-А "Gain 10$ more.%" будет выглядеть в игре как "Gain 10% more."
+А «Gain 10$ more.%» будет выглядеть в игре как «Gain 10% more.»
 
 Вы можете найти несколько повторяющихся строк, пожалуйста, скопируйте и вставьте перевод
 или обработайте их как обычные строки.
@@ -64,23 +64,23 @@
 Это будет автоматически заменено на текст привязки. Вместо этого переместите
 [MappedKey] туда, где должна отображаться привязка клавиши.
 
-Например, "Press the [MappedKey:Attack] button" может быть изменена на
-"The [MappedKey:Attack] button is for attacking" и т.д., что в конечном итоге будет выглядеть как:
-"The Right Trigger button is for attacking."
+Например, «Press the [MappedKey:Attack] button» может быть изменена на
+«The [MappedKey:Attack] button is for attacking» и т.д., что в конечном итоге будет выглядеть как:
+«The Right Trigger button is for attacking.»
 
 Как долго вы закончили перевод текста в .txt файлах, смените
-название "English_" на новый язык.
+название «English_» на новый язык.
 
-Например, "English_UI_messages.txt" вы можете изменить
-на "French_UI_messages.txt"
+Например, «English_UI_messages.txt» вы можете изменить
+на «French_UI_messages.txt»
 
 		-=-=-=-= ГЕНЕРАЦИЯ ПРЕДМЕТОВ =-=-=-=-=-
 
 Есть четыре отдельных файлы для генерации названия предмета:
-	English_item_prefixes.txt
-	English_item_materials.txt
-	English_item_types.txt
-	English_item_suffixes.txt
+	- English_item_prefixes.txt
+	- English_item_materials.txt
+	- English_item_types.txt
+	- English_item_suffixes.txt
 При генерации предмета в игре, он создаётся в таком порядке:
 	prefix -> material -> type -> joiner -> suffix
 Например, "Cursed Leather Cap of the monkey clan"
@@ -89,8 +89,8 @@
 НЕ ИСПОЛЬЗУЙТЕ ЗАГЛАВНЫЕ БУКВЫ и ПРОБЕЛЫ.
 Например, prefix+type+material+joiner+suffix
 
-В суффиксах вы также найдёте две дополнительные ссылки, (" of the" и " of")
-(" Of the") будет использовать для первых 12 суффиксов, а (" of") для остальных 24.
+В суффиксах вы также найдёте две дополнительные ссылки, (« of the» и « of»)
+(« Of the») будет использовать для первых 12 суффиксов, а (« of») для остальных 24.
 
 		-=-=-=-= ГЕНЕРАЦИЯ ИМЁН =-=-=-=-=-
 
@@ -101,21 +101,21 @@
 Если для перевода вам понадобится suffix+name, просто поменяйте строки местами.
 
 Например, вместо:
-bob%
-fred%
-bill%
-The dumb%
-The silly%
-The idiot%
+- bob%
+- fred%
+- bill%
+- The dumb%
+- The silly%
+- The idiot%
 
 Вы можете изменить порядок на:
 
-The dumb%
-The silly%
-The idiot%
-bob%
-fred%
-bill%
+- The dumb%
+- The silly%
+- The idiot%
+- bob%
+- fred%
+- bill%
 
 (Убедитесь, что вы изменили порядок ВСЕХ имён и ВСЕХ суффиксов. И что они имеют одинаковое количество строк. Например, не заменяйте 5 суффиксов с 10 именами. Их соотношение должно быть 1:1)
 
