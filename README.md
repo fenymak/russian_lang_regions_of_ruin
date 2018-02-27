@@ -40,7 +40,7 @@ English_dialog_messages.txt
 English_injury_messages.txt
 English_UI_messages.txt
 
-и так далее..
+и так далее...
 
 Если вы откроете файл, вы увидите несколько строк, разделённых символом «%».
 
