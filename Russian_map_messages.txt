@@ -1,239 +1,239 @@
-campground%
-goblin forest%
-howling forest%
-ochre pines%
-ochre pines%
-dying woods%
-weathered snowfield%
-goblin stockade%
-bloodied forest%
-urkru orc camp%
-felled pines%
-quiet woods%
-brekar woods%
-goblin encampment%
-obed's grave%
-ravaged farm%
-hunters lodge%
-orc stronghold%
-lumberyard%
-salted wastes%
-murky grassland%
-kobold village%
-tunnel pines%
-wolf tamer camp%
-the odd lumberyard%
-deadshot pines%
-tribeacon forest%
-muddled ruins%
-beacon pines%
-overrun village%
-forest troll fort%
-fort kluk%
-blue skin fort%
-desecrated fort%
-pot hole pines%
-unseemly wilds%
-unseemly wilds%
-unseemly wilds%
-unseemly wilds%
-unseemly wilds%
-unseemly wilds%
-hammerhand clan%
-secretive stranger%
-uderest's ruins%
-sculptor's pines%
-invaded orchard%
-redbutt's camp%
-gloot's tower%
-the great library%
-worg rider camp%
-conflicted pines%
-joe's farm%
-cotton farm%
-desert town%
-hovel%
-hunter's cottage%
-cotton farm%
-weathered town%
-bapsy's installations%
-reclusive hovel%
-barricaded town%
-guarded town%
-hardy farm%
-bizarre hermit%
-icefield settlement%
-small cave%
-eerie cavern%
-mining cave%
-floral cavern%
-rothgar%
-expansive cavern%
-floral cavern%
-narrow cave%
-red goblin mine%
-lost city%
-small settlement%
-slug infestation%
-troll cave%
-troll crossing%
-crawler infestation%
-red caverns%
-furious cavern%
-ice cleaved cave%
-rich cavern%
-hidden cavern%
-mining site%
-iced rune hall%
-gesdun's ruins%
-gesdun's rest%
-heated cavern%
-cave%
-cave%
-cave%
-cave%
-cave%
-fiery flora%
-concealed cave%
-putrid tunnel%
-ice slug cave%
-concealed cavern%
-ice slug cave%
-ice slug cave%
-crawler cave%
-adamantine mine%
-crawler queen cavern%
-concealed cave%
-blue skin mine%
-concealed cave%
-treasure hall%
-ruins of remnar%
-ruins of microlinia%
-overrun ruins%
-the odd ruins%
-ruins of korl%
-tower of gur%
-nameless ruins%
-fenatic ruins%
-puzzled ruins%
-humble ruins%
-peculiar ruins%
-hollowed ruins%
-tainted ruins%
-tall ruins%
-labourers stockade%
-peaceful glade%
-pivotal ruins%
-argothias' rest%
-orc ruins%
-bewitched ruins%
-ogrek's rest%
-red rock ruins%
-veshka's outpost%
-silent southern ruins%
-barricaded ruins%
-hovering beacon%
-invaded ruins%
-residual ruins%
-druid's ruins%
-menam's ruins%
-tricky ledges%
-five tower beacons%
-resistance rockies%
-bor's fort%
-decieved ruins%
-mascom westgate%
-uderest's tower%
-snowbeard's ruins%
-forthgrit%
-tricky rubble%
-shifting ruins%
-pentarunes%
-autumn beacon%
-excavated beacon%
-bolis' ruins%
-concealed ruins%
-concealed ruins%
-concealed ruins%
-concealed ruins%
-concealed ruins%
-seeping bog%
-seeping bog%
-seeping bog%
-seeping bog%
-seeping bog%
-seeping bog%
-sulphuric mire%
-sulphuric mire%
-sulphuric mire%
-sulphuric mire%
-sulphuric mire%
-sulphuric mire%
-swampy ruins%
-arid dunes%
-arid dunes%
-goblin stockade%
-orc stronghold%
-quiet waste%
-red goblin camp%
-red goblin camp%
-overrun village%
-red wasteland%
-red encampment%
-braved camp%
-hostaged camp%
-riddled sands%
-rufug's domain%
-howling dunes%
-fertile sands%
-concealed dunes%
-first ruins%
-second ruins%
-begrudging sands%
-fringe sands%
-defensive dunes%
-wild dwarf dunes%
-new settlement%
-lone well%
-death fort%
-conquered fort%
-outrider camp%
-outrider camp%
-outrider fort%
-black blood camp%
-black blood camp%
-beserker camp%
-black bloods waste%
-black blood fort%
-black blood fort%
-destroyed township%
-fort orcthorns%
-black blood land%
-black blood fort%
-black blood land%
-taiga%
-blue skin camp%
-black pines%
-blue skin camp%
-icefield%
-beastmaster's camp%
-snowy hovel%
-fire-bite's domain%
-cotton flush%
-lingering blue camp%
-isolated cottage%
-sloppy icefield%
-blue camp%
-worg den%
-protruding ruins%
-black worg pines%
-icefield%
-icefield%
-desolate town%
-ice druid camp%
-icefield%
-icefield%
-taiga%
-taiga%
-pines%
-taiga%
+палаточный лагерь%
+лес гоблинов%
+воющий лес%
+охристые сосны%
+охристые сосны%
+погибающий лес%
+выветрившиеся снежные поля%
+укрепление гоблинов%
+окровавленный лес%
+лагерь орков уркру%
+вырубленные сосны%
+тихий лес%
+бреккарский лес%
+лагерь гоблинов%
+могила обеда%
+разорённая ферма%
+охотничьи домики%
+крепость орков%
+лесной склад%
+солевой пустырь%
+мрачный луг%
+деревня кобольдов%
+проходные сосны%
+лагерь укротителей волков%
+заброшенный лесной склад%
+смертельные сосны%
+лес племени акон%
+запутанные руины%
+путеводные сосны%
+переполненная деревня%
+форт лесных троллей%
+форт клук%
+форт синекожих%
+осквернённый форт%
+ухабистые сосны%
+негожие дебри%
+негожие дебри%
+негожие дебри%
+негожие дебри%
+негожие дебри%
+негожие дебри%
+клан молотоголовых%
+таинственный незнакомец%
+руины одереста%
+сосны скульптора%
+оккупированный сад%
+лагерь краснозада%
+башня глута%
+великая библиотека%
+лагерь всадников ворга%
+противоречивые сосны%
+ферма джо%
+хлопковая ферма%
+пустынный город%
+лачуга%
+охотничий домик%
+хлопковая ферма%
+выветрившийся город%
+сооружения бапси%
+лачуга отшельника%
+забаррикадированный город%
+подземный город%
+стойкая ферма%
+странный отшельник%
+поселение ледового поля%
+небольшая пещера%
+жуткая пещера%
+горная пещера%
+флористическая пещера%
+ротгар%
+обширная пещера%
+флористическая пещера%
+узкая пещера%
+шахта красных гоблинов%
+затерянный город%
+небольшое поселение%
+заражение слизью%
+пещера троллей%
+переправа троллей%
+заражение гусеницами%
+красные пещеры%
+яростная пещера%
+пещера колотого льда%
+богатая пещера%
+тайная пещера%
+горный участок%
+замёрзший рунный зал%
+руины гесдуна%
+перевал гесдуна%
+жаркая пещера%
+пещера%
+пещера%
+пещера%
+пещера%
+пещера%
+огненная флора%
+скрытая пещера%
+гнилостный туннель%
+пещера ледяных слизней%
+скрытая пещера%
+пещера ледяных слизней%
+пещера ледяных слизней%
+пещера гусениц%
+адамантовая шахта%
+пещера королевы гусениц%
+скрытая пещера%
+шахта синекожих%
+скрытая пещера%
+зал сокровищ%
+руины ремнара%
+руины микролинии%
+переполненные руины%
+странные руины%
+руины корла%
+башня гюра%
+безымянные руины%
+изуверские руины%
+руины с головоломкой%
+скромные руины%
+необычные руины%
+выдолбленные руины%
+заражённые руины%
+высокие руины%
+форт подёнщиков%
+мирная поляна%
+ключевые руины%
+перевал арготиаса%
+орочьи руины%
+заколдованные руины%
+перевал огрека%
+краснокаменные руины%
+форпост вешки%
+тихие южные руины%
+забаррикадированные руины%
+парящий маяк%
+оккупированные руины%
+остаточные руины%
+руины друида%
+руины менама%
+замысловатые выступы%
+пять башен-маяков%
+сопротивление скалистых гор%
+форт бора%
+разрушенные руины%
+западные ворота маскома%
+башня удереста%
+руины снежной бороды%
+фортгрит%
+замысловатый валун%
+переменчивые руины%
+пентаруны%
+осенний маяк%
+раскопанный маяк%
+руины болиса%
+скрытые руины%
+скрытые руины%
+скрытые руины%
+скрытые руины%
+скрытые руины%
+сочащаяся трясина%
+сочащаяся трясина%
+сочащаяся трясина%
+сочащаяся трясина%
+сочащаяся трясина%
+сочащаяся трясина%
+серное болото%
+серное болото%
+серное болото%
+серное болото%
+серное болото%
+серное болото%
+болотистые руины%
+засушливые дюны%
+засушливые дюны%
+частокол гоблинов%
+крепость орков%
+тихий пустырь%
+лагерь красных гоблинов%
+лагерь красных гоблинов%
+переполненная деревня%
+пустошь красных%
+лагерь красных%
+лагерь храбрых%
+лагерь заложников%
+загадочные пески%
+владения руфуга%
+воющие дюны%
+плодородные пески%
+скрытые дюны%
+первые руины%
+вторые руины%
+ворчливые пески%
+пограничные пески%
+оборонительные дюны%
+дюны диких гномов%
+новое поселение%
+одинокий колодец%
+форт смерти%
+завоёванный форт%
+лагерь разбойников%
+лагерь разбойников%
+форт разбойников%
+лагерь чернокровных%
+лагерь чернокровных%
+лагерь берсеркеров%
+пустырь чернокровных%
+форт чернокровных%
+форт чернокровных%
+разрушенный поселок%
+форт шипастых орков%
+земля чернокровных%
+форт чернокровных%
+земля чернокровных%
+тайга%
+лагерь синекожих%
+чёрные сосны%
+лагерь синекожих%
+ледовое поле%
+лагерь повелителя зверей%
+заснеженная лачуга%
+владения огнекуса%
+посадки хлопка%
+давнишний лагерь синих%
+огороженный домик%
+слякотное ледовое поле%
+лагерь синих%
+логово ворга%
+выдающиеся руины%
+сосны чёрного ворга%
+ледовое поле%
+ледовое поле%
+пустынный город%
+лагерь ледяного друида%
+ледовое поле%
+ледовое поле%
+тайга%
+тайга%
+сосны%
+тайга%
