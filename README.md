@@ -36,9 +36,9 @@
 
 В этом наборе локализации вы найдёте несколько файлов:
 
-English_dialog_messages.txt
-English_injury_messages.txt
-English_UI_messages.txt
+- English_dialog_messages.txt
+- English_injury_messages.txt
+- English_UI_messages.txt
 
 и так далее...
 
