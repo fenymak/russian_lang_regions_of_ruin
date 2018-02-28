@@ -448,47 +448,47 @@ Glean twice as many resources from your refinery%
 increase the quality of your forged items by 50$%
 Add 1,000 to the total essence you can imbue with your runeforge%
 Double the Maximum Health and Damage of Companions%
-Hold over 1,000,000 Copper at one time%
-Hold over 1,000,000 Iron at one time%
-Hold over 1,000,000 Bronze at one time%
-Hold over 1,000,000 Silver at one time%
-Hold over 1,000,000 Gold at one time%
-Hold over 1,000,000 Adamantine at one time%
-Have an Exploration rate over 500$ p/s%
-Have a Mining rate over 10,000 p/s%
-Have a Refining rate over 20,000 p/s%
-Have up to 20 Workers in one role%
-Collect over 10,000,000 Silver%
-Collect over 10,000,000 Gold%
-Collect over 10,000,000 Adamantine%
-Purchase all Artefacts%
-2x Ore Finding%
-+50$ Refiner Work Rate%
-+50$ Explorer Speed%
+Хранить свыше 1,000,000 меди одновременно%
+Хранить свыше 1,000,000 железа одновременно%
+Хранить свыше 1,000,000 бронзы одновременно%
+Хранить свыше 1,000,000 серебра одновременно%
+Хранить свыше 1,000,000 золота одновременно%
+Хранить свыше 1,000,000 адамантина одновременно%
+Иметь скорость поиска свыше 500$ оч./с%
+Иметь скорость добычи свыше 10,000 оч./с%
+Иметь скорость переработки свыше 20,000 оч./с%
+Иметь до 20 рабочих одной роли%
+Собрать свыше 10,000,000 серебра%
+Собрать свыше 10,000,000 золота%
+Собрать свыше 10,000,000 адамантина%
+Купить все артефакты%
+2x поиск руды%
++50$ скорость переработки%
++50$ скорость поиска%
 2x Refinery Yield%
--20$ Shop Prices%
-+100$ Miner Work Rate%
-x5 Worker Rate%
--50$ Shop Prices%
-+1 Vein Quality%
-+2 Vein Quality%
+-20$ цены магазина%
++100$ скорость добычи%
+x5 скорость рабочих%
+-50$ цены магазина%
++1 качество жилы%
++2 качество жилы%
 2x Mining Yield%
-10x Copper Processing Speed%
-empty%
-autosave%
+10x скорость обработки меди%
+пусто%
+автосохранение%
 Dwarven kin had led a Golden age of complacency across the continent. The great Centaur-Human war, however, caused the Dwarves to shun the overworld, their Caste Lords locked themselves into the mountains for centuries. When the doors finally opened, ending centuries of silence, all was not as it should have been...%
 What the dwarves discovered was that the entire continent had changed. Neither human nor centaur remained. The land, once bustling with activity and trade, was now peppered with Goblin, Lich, and Kobold enclaves. The doors now opened, countless thousands of covetous eyes now turned to the Undercities of the dwarves...%
 Dwarven kin fought fiercely, but were soon exiled to the surface, enslaved, captured and ousted from their homes. Now, far from their mountain cores, far from their heritage, the Dwarves slowly sought to reconquer the lands...%
 With the Dwarven race scattered, mere refugees and vagabonds, It will take a hero to bring them together, and restore the once mighty Dwarven Kingdom...%
-press [MappedKey:Dash] to skip%
-< press any key to continue >%
+нажмите [MappedKey:Dash], чтобы пропустить%
+< нажмите любую клавишу для продолжения >%
 With the wagon finally fixed, you head west. The area near the vale is lush and expansive. More than enough to house hundreds of dwarves...%
 you are unsure how many dwarves remain in these lands, but a strong rally shall beckon them, and your colony will grow...%
-empty%
-autosave%
-load game?%
-yes%
-no%
+пусто%
+автосохранение%
+загрузить игру?%
+да%
+нет%
 with the goblin king dead, and the homeward passage revealed, the dwarf kind look to the mountain of rothgar.
 
 now the true journey begins for the dwarves. to expedition the depths, to find their ancestors, to become what they were destined for.
@@ -514,3 +514,4 @@ defensive companions receive less damage, but wont spot enemies until they're cl
 aggressive companions wont hesitate to attack, but will spot enemies from further away%
 with 2,000 essence you can enchant 100$ resistance into any element%
 all hope is lost%
+- нажмите '[MappedKey:Submit]', чтобы продолжить -%
