@@ -84,7 +84,8 @@
 - English_item_suffixes.txt
 
 При генерации предмета в игре, он создаётся в таком порядке:
-	prefix -> material -> type -> joiner -> suffix
+-prefix -> material -> type -> joiner -> suffix
+
 Например, "Cursed Leather Cap of the monkey clan"
 
 Вы можете изменить порядок генерации в English_item_order.txt
