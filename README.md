@@ -77,10 +77,12 @@
 		-=-=-=-= ГЕНЕРАЦИЯ ПРЕДМЕТОВ =-=-=-=-=-
 
 Есть четыре отдельных файлы для генерации названия предмета:
+
 - English_item_prefixes.txt
 - English_item_materials.txt
 - English_item_types.txt
 - English_item_suffixes.txt
+
 При генерации предмета в игре, он создаётся в таком порядке:
 	prefix -> material -> type -> joiner -> suffix
 Например, "Cursed Leather Cap of the monkey clan"
