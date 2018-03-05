@@ -1,29 +1,29 @@
-attacking%
-throwing%
-shielding%
-power hitting%
-melee attacks%
-ranged attacks%
-base health%
-enable this ability to make standard quick slashes with the [MappedKey:Attack]%
-enable this ability to make three faster consecutive hits with 30$ reduced damage.%
-enable this ability to increase the force your attacks push enemies back.%
-enable this ability to never get blocked by shields, but with 25$ reduced damage.%
-add bleeding damage over 6 seconds to enemies, doubling your total damage.%
-double your chance of getting a critical strike with quick slashes.%
-double all armour penetration when quick slashing.%
-increase the speed of all quick slashes by 20$.%
-unlock this ability to be able to attack and dash simultaneously.%
-do four times damage to stunned enemies instead of two times.%
-surprise melee attacks on enemies deal 12x damage.%
-Move quicker when sneaking, stay hidden easier, and inflict poison.%
+атака%
+метание%
+щит%
+мощный удар%
+ближний бой%
+дальний бой%
+базовое здоровье%
+включите эту способность, чтобы совершать стандартные быстрые удары, используя [[MappedKey:Attack]]%
+включите эту способность, чтобы совершить три более быстрых последовательных ударов с 30$ снижением урона.%
+включите эту способность, чтобы увеличить силу отталкивания врагов назад вашими атаками.%
+включите эту способность, чтобы игнорировать блокирование щитами, но с 25$ снижением урона.%
+добавляет урон от кровотечения в течение 6 секунд врагам, удваивая ваш общий урон.%
+удваивает шанс нанесения критического удара быстрыми ударами.%
+удваивает пробитие брони быстрыми ударами.%
+увеличивает скорость атаки быстрых ударов на 20$.%
+разблокируйте эту способность, чтобы получить возможность атаковать и делать рывок одновременно.%
+наносите в 4 раза больше урона оглушённым врагам, вместо двойного урона.%
+внезапные атаки ближнего боя наносят в 12 раз больше урона врагам.%
+Двигайтесь быстрее, когда крадётесь, оставайтесь более незаметным и отравляйте при ударе.%
 when using the unblockable ability, hitting shielding enemies stuns them instead of you.%
 all melee strikes have no cleaving limit.%
 mastery of blades, double all damage done with melee strikes.%
 enable this skill to be able to use throwing axes. Hold and release the [MappedKey:Throw]%
-enable this ability to greatly increase the speed that you can throw axes.%
-enable this ability to use a grappling axe that can grab and pull enemies to yourself.%
-enable this ability to throw two axes at once at a slightly reduced speed.%
+включите эту способность, чтобы greatly increase the speed that you can throw axes.%
+включите эту способность, чтобы use a grappling axe that can grab and pull enemies to yourself.%
+включите эту способность, чтобы throw two axes at once at a slightly reduced speed.%
 reduce the cooldown of all throwing by 20$.%
 increase the maximum distance you can throw your axes.%
 double the force that your axes push enemies back%
@@ -33,10 +33,10 @@ add bleeding damage to enemies over 6 seconds, doubling your total damage.%
 hitting enemies with a grappling axe will stun them.%
 mastery of axe throwing, doubles all damage dealt by throwing axes.%
 allows you to throw three axes at once instead of two.%
-enable this ability to use your shield with the [MappedKey:Shield]%
-enable this ability to regenerate health whilst shielding, but at a lower rate.%
-enable this ability to block 100$ of damage when shielding, but move much slower.%
-enable this ability to shieldbash when you start shielding.%
+включите эту способность, чтобы use your shield with the [MappedKey:Shield]%
+включите эту способность, чтобы regenerate health whilst shielding, but at a lower rate.%
+включите эту способность, чтобы block 100$ of damage when shielding, but move much slower.%
+включите эту способность, чтобы shieldbash when you start shielding.%
 double all of your base element resistances.%
 can dash whilst shielding to charge and stun enemies.%
 move twice as fast when shielding.%
@@ -48,10 +48,10 @@ double the armour rating of your body armour.%
 reflect 100$ of received damage back onto enemies.%
 hitting enemies with your shield does damage based off your armour rating.%
 double the armour rating of your shields.%
-enable this ability to do a three times damage power hit with the [MappedKey:PowerAttack]%
-enable this ability to ground slam, knocking enemies into the air and doubling stun length.%
-enable this ability to double the damage of power hits, but gets blocked by shields.%
-enable this ability to create a blowing force with your power hits, doing 25$ of your total damage.%
+включите эту способность, чтобы do a three times damage power hit with the [MappedKey:PowerAttack]%
+включите эту способность, чтобы ground slam, knocking enemies into the air and doubling stun length.%
+включите эту способность, чтобы double the damage of power hits, but gets blocked by shields.%
+включите эту способность, чтобы create a blowing force with your power hits, doing 25$ of your total damage.%
 increase the speed of power hits by 20$.%
 power hits do four times damage to stunned enemies instead of two times.%
 double the push force of all power hits.%
@@ -73,7 +73,7 @@ power hitting a stunned enemy has a 10$ chance to KO (bosses not included).%
 путешествовать%
 играть%
 характеристики%
-Нажмите [MappedKey:Skills], чтобы отправиться%
+Нажмите [[MappedKey:Skills]], чтобы отправиться%
 откройте любое меню, чтобы получить уровень%
 вялый%
 очень медленно%
@@ -90,38 +90,38 @@ regular%
 sturdy%
 tough%
 very tough%
-juggernaut%
-unstoppable%
+джаггернаут%
+неудержимый%
 normal%
 defensive%
 aggressive%
 follow%
 wait%
 recruit%
-Small bandages will heal one small wound.%
-Large bandages heal one small and large wound.%
-Potions heal all wounds and status effects.%
-leather cap%
-iron helm%
-bronze helm%
-steel helm%
-adamantine helm%
-leather armour%
-iron armour%
-bronze plate%
-steel platemail%
-adamantine armour%
+Малые повязки залечат одно малое ранение.%
+Большие повязки залечат одно малое и одно большое ранения.%
+Зелья вылечат все ранения и эффекты.%
+кожаная шапка%
+железный шлем%
+бронзовый шлем%
+стальной шлем%
+адамантовый шлем%
+кожаная броня%
+железная броня%
+бронзовые латы%
+стальные латы%
+адамантовая броня%
 wooden buckler%
 iron heater%
-bronze shield%
+бронзовый щит%
 steel defender%
 adamantine heater%
-sword%
-shortaxe%
-greatsword%
-greataxe%
-warhammer%
-polearm%
+меч%
+топорик%
+двуручный меч%
+двуручный топор%
+боевой молот%
+алебарда%
 The campfire is where you train and upgrade your skills. It also improves how much area you can scout at one time.%
 upgrading this building will increase your maximum resource storage capacity, allowing you to hold and maintain much more resources.%
 the tavern will attract nearby adventurers to hire, and generate profit, depending on the size of the tavern.%
@@ -142,51 +142,51 @@ the runeforge will enable you to imbue items with magical properties, using esse
 библиотека%
 рынок%
 рунная кузница%
-imbued essence%
-fire resistance%
-cold resistance%
-poison resistance%
-electric resistance%
-strength%
-dexterity%
-constitution%
+наполненная сущность%
+сопротивление огню%
+сопротивление холоду%
+сопротивление яду%
+сопротивление молнии%
+сила%
+ловкость%
+телосложение%
  %
-poison%
-burning%
-bleed%
-pushback%
-freezing%
-stunning%
-conversion%
-dashing%
-shockwave%
-fire%
-life steal%
-cold%
- %
- %
+отравление%
+горение%
+кровотечение%
+отталкивание%
+заморозка%
+оглушение%
+обращение%
+рывок%
+ударная волна%
+огонь%
+вампиризм%
+холод%
  %
  %
  %
  %
  %
  %
-throwing damage%
-overall damage%
-reflection%
-regeneration%
-stun chance%
-resistance%
+ %
+ %
+урон при метании%
+общий урон%
+отражение%
+регенерация%
+шанс оглушения%
+сопротивление%
  %
  %
  %
  %
  %
  %
-the easiest dfficulty, for weaklings, not for dwarves.%
-the regular difficulty, for the common folk.%
-hard difficulty, for those who feel manly.%
-the masochist difficulty, unlocked when beating the game.%
+самая лёгкая сложность, для слабаков, а не для гномов.%
+обычная сложность для обычных людей.%
+тяжёлая сложность, для тех, кто чувствует себя отважным.%
+мазохистская сложность, откроется при прохождении игры.%
 Вы в прекрасном состоянии%
 Вы в хорошем состоянии%
 Вы в неплохом состоянии%
@@ -198,12 +198,12 @@ the masochist difficulty, unlocked when beating the game.%
 Теряет сознание от сильной боли%
 Борется за свою жизнь%
 В предсмертном состоянии%
-Crushed unto death%
+Задавлен до смерти%
 Отравленная кровь%
 Сильное отравление%
 Серьёзное отравление%
 Смертельно болен%
-you're stuffed mate!%
+приятель, да ты нафарширован!%
 Горение%
 Серьёзное горение%
 Пылание%
@@ -399,13 +399,13 @@ backfired%
 сопротивление%
 яд%
 ожог%
-bleed%
+кровотечение%
 force%
-freezing%
-stunning%
-conversion%
-dashing%
-shock%
+заморозка%
+оглушение%
+обращение%
+рывок%
+шок%
 огонь%
 вампиризм%
 холод%
