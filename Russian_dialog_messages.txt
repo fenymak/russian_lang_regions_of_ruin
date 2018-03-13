@@ -1,34 +1,34 @@
-orcs have thick armour, and can block you very easily. But they cannot block what is behind them, or better yet, what they cannot see.%
-greetings kin, your settlement is far better than i expected, my fellow comrades are eager to get to work, just tell them where to go, they'll get to work.%
-if the settlement grows too large, we'll attract large enemy forces. we ought to bring the fight to them before that happens, we should consider constructing a spearhead fortress.%
+у орков очень прочная броня, а также они могут с лёгкостью заблокировать тебя. Но они не могут заблокировать то, что сзади их или, ещё лучше, что они не могут видеть.%
+приветствуют, родич, твоё поселение намного лучше, чем я ожидал, мои товарищи хотят найти работу, просто скажи им, куда идти, и они пойдут работать.%
+если поселение станет слишком большим, мы привлечём больше врагов. мы должны сразить их, прежде чем это произойдёт, мы должны подумать о строительстве крепости с частоколом.%
 работа%
-we ought to cut off the head of the orcs north of here, before they grow too strong. You should seek out the orc they call the enslaver. he resides in the fort north of here.%
-yes, soon. When i have more information, i'll tell you, and we can continue to bring down the orc tyrants in this land.%
-hail kin! you're becoming quite the lord now, your settlement is growing very nicely.%
-the lumberdwarf i rescued commissioned me to slay one of the orc leaders in this region.%
-the enslaver is dead, and the lumberdwarf may want to continue this vendetta soon.%
-i heard the orcs breed a malevolent form of orc, they call them beserkers, and are savage beasts of war.%
-i'm a simple labourer, but i've assumed position as leader over some of my men, to help us stay together.%
-the undead in the east are unlike the ones in the west. humans use to reside there, thus the undead are taller and stronger.%
-hail hero! i have information on the next stronghold, we ought to defeat it's wicked leader.%
-that necromancer is bringing taint to our homeland, have you killed the wretched vermin?%
+мы должны отрубить голову оркам к северу отсюда, прежде чем они станут слишком сильными. Ты должен найти орка, которого они называют «поработитель». он обитает в форте к северу отсюда.%
+да, скоро. Когда у меня будет больше информации, я скажу тебе, и мы сможем продолжить истреблять орочьих тиранов на земле.%
+привет, родич! ты потихоньку становишься властелином, твоё поселение развивается очень хорошо.%
+лесной гном, которого я спас, поручил мне убить одного из лидеров орков в этом регионе.%
+поработитель мёртв, а лесной гном, возможно, вскоре захочет продолжить эту месть.%
+я слышал, что орки порождают злобный вид орков, они называют их берсерками, дикими зверями войны.%
+я простой работяга, но я возглавил нескольких из нас, чтобы помочь нам сплотиться вместе.%
+нежить на востоке отличается от той, что на западе. там живут люди, от чего нежити становится больше и она сильнее с каждым днём.%
+да здравствует герой! у меня есть информация о следующей крепости, мы должны победить в ней злого лидера.%
+этот некромант приносит порчу в наши земли, ты убил жалкого паразита?%
 оплот%
-another in the desert, i hear a necromancer has summoned the dead to help him build a stronghold, he must be stopped.%
-you never cease to amaze young hero! i will inform you the moment i discover another stronghold.%
-your strength is legend hero! I will inform you when i find another stronghold to conquer.%
-the lumberdwarf has found a necromancer stronghold, and wants me to lay waste to it.%
-the necromancer is dead, and rewards are plenty.%
-i heard the orcs breed a malevolent form of orc, they call them beserkers, and are savage beasts of war.%
-i'm a simple labourer, but i've assumed position as leader over some of my men, to help us stay together.%
-i'm getting some rather odd looks from your fellow dwarves, haven't they seen a human before?%
-hello kind sir, what a pleasure it is to see you. This is quite a lovely settlement you've started, i hope you dont mind me staying.%
-everything feels strangely familiar, but different. I'll stay here until i get my bearings.%
+ещё один в пустыне, я слышал, что некромант призвал нежить, чтобы помочь ему построить крепость. Его нужно остановить.%
+ты не перестаёшь удивлять, юный герой! Я сообщу тебе, когда найду другую крепость.%
+твоя сила растёт, герой! Я сообщу тебе, когда найду другую крепость для завоевания.%
+лесной гном нашёл крепость некроманта и хочет, чтобы я прекратил её существование.%
+некромант мёртв, награда заслужена.%
+я слышал, что орки порождают злобный вид орков, они называют их берсерками, дикими зверями войны.%
+я простой работяга, но я возглавил нескольких из нас, чтобы помочь нам сплотиться вместе.%
+твои товарищи-гномы странно смотрят на меня, разве они раньше никогда не встречали человека?%
+здравствуй, добрый господин, рад видеть вас. Поселение, что вы заложили, довольно хорошее, надеюсь, вы не возражаете, если я останусь.%
+всё кажется знакомым, но другим. Я останусь здесь, пока не приду в себя.%
 работа%
-Oh you've done more than enough for me already, i couldn't ask for anything more.%
-i'm sorry, i'm not familiar with this place. I haven't seen any other humans around, have you?%
-i use to be a butler, i'm quite good at it. But i... i'm very lost, i'm not sure where my lord's manor is...%
-orcs have thick armour, and can block you very easily. But they cannot block what is behind them, or better yet, what they cannot see.%
-hail hero! i have information on the next stronghold, we ought to defeat it's wicked leader.%
+О, ты уже сделал для меня более чем достаточно, я не могу просить ничего большего.%
+извини, я не знаком с этим местом. Я не видел вокруг других людей, не так ли?%
+раньше я был дворецким, у меня неплохо это получается. Но я... я сильно заблудился, я не уверен, где находится поместье моего господина...%
+у орков очень прочная броня, а также они могут с лёгкостью заблокировать тебя. Но они не могут заблокировать то, что сзади их или, ещё лучше, что они не могут видеть.%
+да здравствует герой! у меня есть информация о следующей крепости, мы должны победить в ней злого лидера.%
 have you slayed dead-eyes the enslaver? he is a mighty foe, be careful.%
 оплот%
 in the midst of the red desert, i sent one of our kin to help you get inside. the leader is named dead-eyes, go forth hero! and conquer!%
@@ -36,8 +36,8 @@ you never cease to amaze young hero! i will inform you the moment i discover ano
 your strength is legend hero! I will inform you when i find another stronghold to conquer.%
 the lumberdwarf has found another stronghold, and wants me to slay it's chief.%
 the chief is dead, and i was rewarded with coin and praise.%
-i heard the orcs breed a malevolent form of orc, they call them beserkers, and are savage beasts of war.%
-i'm a simple labourer, but i've assumed position as leader over some of my men, to help us stay together.%
+я слышал, что орки порождают злобный вид орков, они называют их берсерками, дикими зверями войны.%
+я простой работяга, но я возглавил нескольких из нас, чтобы помочь нам сплотиться вместе.%
 keep an eye on your workers, make sure they arent slacking off.%
 greetings hero, fine settlement you have here! i'm an adept builder, i thought my skills could be of use here.%
 dont worry about housing, i'll sort that out. I'll make sure every dwarf has a roof over their head.%
@@ -61,72 +61,72 @@ the lumberdwarf commissioned me to kill the last five warchiefs.%
 the warchiefs are dead, and the continent is free of the orc, i'm dubbed a true hero.%
 my scouts tell me the warchiefs are beserkers, things of nightmares, orcs that are quick paced and relentless.%
 i'm a simple labourer, but i've assumed position as leader over some of my men, to help us stay together.%
-работа%
+work%
 the only work i have is to plow%
 i help out around the farm, that's all%
-работа%
+work%
 you've already done enough for me, thank you%
 i'm just here to help our production%
-работа%
+work%
 aye, the work is hard, but rewarding%
 im a miner, the true occupation for a dwarf%
-работа%
+work%
 i have enough to do, i'm sure you can find something to do as well%
 im a lumberdwarf, i collect wood for the settlement%
-работа%
+work%
 i've got plenty of work to do, but none for you%
 i'm a hunter, i gather hides from game%
 first time greeting%
 default greeting%
-работа%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. работа%
+work%
+starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
 the occupation or job of the NPC%
 first time greeting%
 default greeting%
-работа%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. работа%
+work%
+starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
 the occupation or job of the NPC%
 this is quite a nice farm, i wonder who lives here%
 i wouldnt mind staying here for awhile%
-работа%
+work%
 i havent got any work for you, but we ought to look for more people to join our settlement%
 i'm the caravan master, i lead this caravan wherever its needed%
 first time greeting%
 default greeting%
-работа%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. работа%
+work%
+starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
 the occupation or job of the NPC%
 first time greeting%
 default greeting%
-работа%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. работа%
+work%
+starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
 the occupation or job of the NPC%
 first time greeting%
 default greeting%
-работа%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. работа%
+work%
+starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
 the occupation or job of the NPC%
 first time greeting%
 default greeting%
-работа%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. работа%
+work%
+starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
 the occupation or job of the NPC%
 first time greeting%
 default greeting%
-работа%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. работа%
+work%
+starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
 the occupation or job of the NPC%
-работа%
+work%
 i have enough to do, i'm sure you can find something to do as well%
 im a lumberdwarf, i collect wood for the settlement%
 how glad i am to see you!%
 thanks for your help, lets get out of here.%
-работа%
+work%
 i dont have any work for you now, maybe when we get back to your settlement%
 i'm a foreman, i'm a master in my trade, i can help you build larger constructions and upgrade your current ones%
 we could use a storage tent, to keep supplies for more constructions.%
 hello again, do you need my services?%
-палатка для хранения%
+storage tent%
 yes, a storage tent would be a good start for the settlement, you'll need to gather some wood and leather to build one.%
 it's a good thing we have this storage tent, we should be able to construct larger buildings now.%
 i'm very grateful to be here, i'm glad my services will be of use.%
@@ -138,7 +138,7 @@ i'm a highly trained physician, i can cure all sorts of ailments... for coin, of
 be careful when exploring caves, they're always full of monsters, all kinds%
 not a bad little thing you've got going here, i'm sure it will grow%
 i'd really like to have a forge up and running%
-работа%
+work%
 i havent got any work for you now, perhaps if you get a forge built, i'd have more for you to do%
 we'll need some stone to get a forge running, i heard there's a good source to the east%
 the town smithy told me a cave east of here had a good supply of stone.%
@@ -146,7 +146,7 @@ i'm a blacksmith by trade, my family mastered the art long ago, and we've not fo
 keep building up your settlement, you'll attract more dwarfs to come and settle, we're stronger in numbers%
 greetings hero, you have quite the establishment here, i couldnt pass the opportunity to stop by for a drink%
 fine day, isnt it?%
-работа%
+work%
 now that you mention it, you might be able to help me out. an old friend of mine went missing, gurt was the name, if you hear from him, do let me know.%
 i never thought you'd find my ol'mate, thank you%
 hail kin, you are quite the hero%
@@ -155,7 +155,7 @@ the merchant was pleased to know his friend is alright, he seems interested in s
 i use to be a travelling merchant, but i'm completely out of stock, it might take some time to get me back on my feet%
 greetings hero, i have a few items for sale, and i have some gold im willing to trade for equipment%
 i'd have a lot more if we built a trade depot, i might be able to coax some other merchants to come%
-работа%
+work%
 if you dont mind, i'd like you to visit an old friend of mine, he lives in a hovel by the lake south of here. I'll pay to know he's still alive.%
 thanks for visiting that old fool for me. He'll never change, wiles and all.%
 greetings hero, i have a few items for sale, and i have some gold im willing to trade for equipment%
@@ -166,7 +166,7 @@ i'm a travelling merchant, care to see my wares?%
 always look out for a source of materials, we'll need all sorts of things to build up this settlement.%
 this is a great place to start a settlement! All we need is a couple of workers to help gather materials.%
 ready to explore? where would you like to go?%
-рабочие%
+workers%
 if we help our kin, they will surely aid us. There is a goblin encampment nearby, perhaps they've captured one of our brothers.%
 it's good to have the extra pair of hands, but we can always do with some more.%
 the settlement is growing, you're doing well kin.%
@@ -178,7 +178,7 @@ i'm the caravan master, i lead this caravan wherever its needed.%
 you'll need many resources to build up your settlement, it could take some time, but the easiest way to get them is to plunder them from nearby regions.%
 greetings kin, i'm a ranger, i've been around these parts for quite some time, i hope you dont mind me staying here for awhile.%
 it's a fine day for hunting, dont you think?%
-работа%
+work%
 a ghastly goblin shaman has been elluding me for months, i think he's camped in the forests south of here, please slay him if you can, ill reward it.%
 i'm glad to be rid of that foul creature, all thanks to you, kin.%
 hail hero! how goes?%
@@ -189,7 +189,7 @@ i'm a ranger, i stalk the wilds and live off the land, i dont stay in one place 
 we ought to dig out more ore, and work a refinery to gather more metals.%
 now that we have a forge, perhaps we could seek out knowledge on how to build a runeforge.%
 i'm glad we have a forge now, i can continue my trade. care to see what i have for sale?%
-рунная кузница%
+runeforge%
 i heard of an acolyte who guarded a cold runeforge, he understands the ways of our old kin, perhaps he could teach you how to build one.%
 a runeforge is very powerful, and can be used to imbue weapons with incredible abilities.%
 how's the runeforge coming along?%
@@ -229,7 +229,7 @@ well i heard these ruins had some valuable heirlooms buried away, but i haven't 
 i'm a simple dwarf, i just find work where i can, help out here and there%
 greetings traveller, i hear you've started a settlement, mind if i join you?%
 i'm happy to come with you, if you let me?%
-присоединиться ко мне%
+join me%
 well, i dont mind if i do! i'll travel back with you when you're ready%
 when do we leave?%
 greetings hero, i'm eager to see your settlement%
@@ -239,7 +239,7 @@ im a travelling merchant, but i need somewhere to settle down and begin my trade
 wood is an essential resource for building up your settlement, i would recommend you keep a steady supply of the stuff%
 greetings traveller, have you seen my companion, ferin?%
 hello again, have you found ferin yet?%
-Ферин%
+Ferin%
 ah yes, ferin my mate, he wandered off but hasnt been back for awhile, i'm worried he might have been snatched up, please let me know if you see him%
 good thing you found him, he's a bit soft, couldnt handle himself without me%
 thanks for getting ferin out of trouble, i'll see what i can do about getting him down%
@@ -251,7 +251,7 @@ i'm a tree feller by trade, i've worked in lumberyards all my life%
 if you're here to help, feel free to whatever supplies i have lying around.%
 hello traveller, i could use your help getting rid of some kobolds, they're a real nuisance.%
 have you gotten rid of all the kobolds? no? what about these rabbits?%
-кобольды%
+kobolds%
 my farm keeps getting overrun with kobolds, and i havent got the strength to chase them away, i'll reward you if you can get rid of them, and help yourself to whatever you need.%
 yes, nasty creatures, i'm glad you got rid of them, now i just need to worry about damn rabbits. come back whenever you like.%
 I could use some help running the farm, you're welcome to send workers if you're in need of supply.%

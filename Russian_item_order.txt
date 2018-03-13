@@ -1,1 +1,1 @@
-prefix+material+type+joiner+suffix
+prefix+material+type+suffix
