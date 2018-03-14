@@ -18,50 +18,50 @@
 внезапные атаки ближнего боя наносят в 12 раз больше урона врагам.%
 Двигайтесь быстрее, когда крадётесь, оставайтесь более незаметным и отравляйте при ударе.%
 when using the unblockable ability, hitting shielding enemies stuns them instead of you.%
-all melee strikes have no cleaving limit.%
-mastery of blades, double all damage done with melee strikes.%
-enable this skill to be able to use throwing axes. Hold and release the [MappedKey:Throw]%
-включите эту способность, чтобы greatly increase the speed that you can throw axes.%
-включите эту способность, чтобы use a grappling axe that can grab and pull enemies to yourself.%
-включите эту способность, чтобы throw two axes at once at a slightly reduced speed.%
-reduce the cooldown of all throwing by 20$.%
-increase the maximum distance you can throw your axes.%
-double the force that your axes push enemies back%
-double the chance of getting a critical strike with a throwing axe.%
-more damage the longer you aim your axe (doubles your damage at maximum distance).%
-add bleeding damage to enemies over 6 seconds, doubling your total damage.%
-hitting enemies with a grappling axe will stun them.%
-mastery of axe throwing, doubles all damage dealt by throwing axes.%
-allows you to throw three axes at once instead of two.%
-включите эту способность, чтобы use your shield with the [MappedKey:Shield]%
-включите эту способность, чтобы regenerate health whilst shielding, but at a lower rate.%
-включите эту способность, чтобы block 100$ of damage when shielding, but move much slower.%
-включите эту способность, чтобы shieldbash when you start shielding.%
-double all of your base element resistances.%
-can dash whilst shielding to charge and stun enemies.%
-move twice as fast when shielding.%
-halve the length of stuns received when shielding.%
-reduce the chance of being wounded by 50$%
-enemies get stunned twice as long when being blocked or bashed by your shield.%
-double the armour rating of your helms.%
-double the armour rating of your body armour.%
-reflect 100$ of received damage back onto enemies.%
-hitting enemies with your shield does damage based off your armour rating.%
-double the armour rating of your shields.%
-включите эту способность, чтобы do a three times damage power hit with the [MappedKey:PowerAttack]%
-включите эту способность, чтобы ground slam, knocking enemies into the air and doubling stun length.%
-включите эту способность, чтобы double the damage of power hits, but gets blocked by shields.%
-включите эту способность, чтобы create a blowing force with your power hits, doing 25$ of your total damage.%
-increase the speed of power hits by 20$.%
-power hits do four times damage to stunned enemies instead of two times.%
-double the push force of all power hits.%
-double the time enemies are stunned by power hits.%
-reduce the stamina cost for power hits by 30$%
-power hits have twice the chance to critical hit when an enemy is stunned.%
-critical hits are doubled in damage for power hits.%
-power hits ignore all armour.%
-blowing force does 50$ of your power hit damage.%
-power hitting a stunned enemy has a 10$ chance to KO (bosses not included).%
+все удары ближнего боя не имеют ограничения на разрубание.%
+владение клинками, удваивает весь наносимый урон в ближнем бою.%
+включите этот навык, чтобы получить возможность использовать метательные топоры. Для метания зажмите, а затем отпустите [[MappedKey:Throw]]%
+включите эту способность, чтобы значительно увеличивайте скорость, с которой вы сможете бросать топоры.%
+включите эту способность, чтобы использовать топор-кошку, который может вцепиться во врага и притянуть его к вам.%
+включите эту способность, чтобы бросать сразу два топора, но немного медленнее.%
+снижает откат всех метательных навыков на 20$.%
+увеличивает максимальное расстояние, на которое вы сможете метать свой топор.%
+удваивает силу, с которой ваши топоры будут отталкивать врагов%
+удваивает шанс нанести критический удар метательным топором.%
+чем дальше вы нацеливаете свой топор, тем больше он нанесёт урона (удваивает урон на максимальном расстоянии).%
+добавляет урон от кровотечения врагам на 6 секунд, удваивая ваш общий урон.%
+удары по врагам топором-кошкой будут оглушать их.%
+владение метательными топорами, удваивает весь наносимый урон метательными топорами.%
+позволяет бросать сразу три топора вместо двух.%
+включите эту способность, чтобы использовать ваш щит, используя [[MappedKey:Shield]]%
+включите эту способность, чтобы регенерировать здоровье при поднятом щите, но медленнее, чем обычно.%
+включите эту способность, чтобы блокировать 100$ урона при поднятом щите, но с замедлением движения.%
+включите эту способность, чтобы наносить удар щитом при поднятии его.%
+удваивает все базовые сопротивления стихиям.%
+позволяет совершать рывок при поднятом щите, оглушая врагов.%
+двигайтесь в 2 раза быстрее при поднятом щите.%
+сокращает время оглушения, полученного при поднятом щите.%
+снижает шанс получения ранений на 50$%
+враги оглушены в 2 раза дольше при блокировании их ударов щитом или нанесении им удара щитом.%
+удваивает рейтинг брони ваших шлемов.%
+удваивает рейтинг брони вашей брони.%
+отражает 100$ полученного урона обратно во врагов.%
+удары по врагам щитом наносят урон, основанный на вашем рейтинге брони.%
+удваивает рейтинг брони ваших щитов.%
+включите эту способность, чтобы наносить в 3 раза больше урона мощным ударом, используя [[MappedKey:PowerAttack]]%
+включите эту способность, чтобы бить по земле, подбрасывая врагов в воздух и удваивая время оглушения.%
+включите эту способность, чтобы удвоить урон мощных ударов, но потерять возможность пробивать щиты.%
+включите эту способность, чтобы создавать ударную волну мощными ударами, нанося 25$ общего урона.%
+увеличивает скорость нанесения мощных ударов на 20$.%
+мощные удары будут наносить в 4 раза больше урона оглушённым врагам, вместо двойного.%
+удваивает отталкивающую силу всех мощных ударов.%
+удваивает время оглушения врагом мощными ударами.%
+снижает расход выносливости мощными ударами на 30$%
+удваивает шанс нанесения критического удара мощными ударами по оглушённым врагам.%
+удваивает урон при нанесении критических ударов мощными ударами.%
+мощные удары игнорируют всю броню.%
+ударная волна наносит 50$ урона от мощного удара.%
+мощные удары по оглушённым врагам имеют 10$ шанс добивания (не работает на боссах).%
 слухи%
 оккупация%
 совет%
@@ -95,9 +95,9 @@ very tough%
 normal%
 defensive%
 aggressive%
-follow%
-wait%
-recruit%
+следовать%
+ждать%
+нанять%
 Малые повязки залечат одно малое ранение.%
 Большие повязки залечат одно малое и одно большое ранения.%
 Зелья вылечат все ранения и эффекты.%
@@ -111,11 +111,11 @@ recruit%
 бронзовые латы%
 стальные латы%
 адамантовая броня%
-wooden buckler%
-iron heater%
+деревянный баклер%
+железный каплевидный щит%
 бронзовый щит%
-steel defender%
-adamantine heater%
+стальной защитник%
+адамантовый каплевидный щит%
 меч%
 топорик%
 двуручный меч%
