@@ -1,5 +1,5 @@
 у орков очень прочная броня, а также они могут с лёгкостью заблокировать тебя. Но они не могут заблокировать то, что сзади их или, ещё лучше, что они не могут видеть.%
-приветствуют, родич, твоё поселение намного лучше, чем я ожидал, мои товарищи хотят найти работу, просто скажи им, куда идти, и они пойдут работать.%
+приветствую, родич, твоё поселение намного лучше, чем я ожидал, мои товарищи хотят найти работу, просто скажи им, куда идти, и они пойдут работать.%
 если поселение станет слишком большим, мы привлечём больше врагов. мы должны сразить их, прежде чем это произойдёт, мы должны подумать о строительстве крепости с частоколом.%
 работа%
 мы должны отрубить голову оркам к северу отсюда, прежде чем они станут слишком сильными. Ты должен найти орка, которого они называют «поработитель». он обитает в форте к северу отсюда.%
@@ -29,116 +29,116 @@
 раньше я был дворецким, у меня неплохо это получается. Но я... я сильно заблудился, я не уверен, где находится поместье моего господина...%
 у орков очень прочная броня, а также они могут с лёгкостью заблокировать тебя. Но они не могут заблокировать то, что сзади их или, ещё лучше, что они не могут видеть.%
 да здравствует герой! у меня есть информация о следующей крепости, мы должны победить в ней злого лидера.%
-have you slayed dead-eyes the enslaver? he is a mighty foe, be careful.%
+ты убил «мертвоглаза-поработителя»? он могущественный враг, будь осторожен.%
 оплот%
-in the midst of the red desert, i sent one of our kin to help you get inside. the leader is named dead-eyes, go forth hero! and conquer!%
-you never cease to amaze young hero! i will inform you the moment i discover another stronghold.%
-your strength is legend hero! I will inform you when i find another stronghold to conquer.%
-the lumberdwarf has found another stronghold, and wants me to slay it's chief.%
-the chief is dead, and i was rewarded with coin and praise.%
+посреди красной пустыни я отправил одного из наших родичей, чтобы помочь тебе попасть внутрь. лидера зовут «мертвоглаз», вперёд, герой! и побеждай!%
+ты не перестаёшь удивлять, юный герой! Я сообщу тебе, когда найду другую крепость.%
+твоя сила растёт, герой! Я сообщу тебе, когда найду другую крепость для завоевания.%
+лесной гном нашёл ещё одну крепость и хочет, чтобы я убил вождя в ней.%
+вождь мёртв, а я вознаграждён монетой и похвалой.%
 я слышал, что орки порождают злобный вид орков, они называют их берсерками, дикими зверями войны.%
 я простой работяга, но я возглавил нескольких из нас, чтобы помочь нам сплотиться вместе.%
-keep an eye on your workers, make sure they arent slacking off.%
-greetings hero, fine settlement you have here! i'm an adept builder, i thought my skills could be of use here.%
-dont worry about housing, i'll sort that out. I'll make sure every dwarf has a roof over their head.%
+присматривай за своими работниками, убедись, что они не расслабляются.%
+приветствую, герой, у тебя тут прекрасное поселение! я - искусный строитель, думаю, что мои навыки могут пригодиться здесь.%
+не беспокойтесь о жилье, я разберусь с этим. Я прослежу, чтобы у каждого гнома была крыша над головой.%
 навыки%
-speaking of skills, we ought to have a blacksmith here. I know a fellow who lives nearby, perhaps you could talk him into joining our settlement.%
-its always good to have some talented hands around.%
-everything seems to be growing quite well. it's good to see our kin grouping together again.%
-the builder asked me to rally his friend, the blacksmith, to join our settlement.%
-the builder was pleased to see his blacksmith friend join our settlement.%
-there are some cotton farms north of here. I'm not sure how many are still running, but it'd be worth a look.%
-the builder said some cotton farms are north of here, and marked a few places on my map.%
-i'm a foreman, construction is my trade. I'll make sure our workers have a roof over their head.%
-be weary, hero. You will not face sluggish foes like before, these warchiefs are light footed and dual wield their blades.%
-hail hero, i have one final task, if yer up for it, it will be your greatest challenge yet.%
-the orc warchiefs must be brought down to ensure lasting peace and survival for our kin.%
-final task%
-but five orc warchiefs remain on this continent. They all reside in the south eastern wastelands. defeat them, and you will become legend.%
-you have liberated our kin, brought low our enemies, and secured lasting peace for our kind. Well done, hero.%
-i am honored to be in your presence hero, books and songs will be written of your deeds.%
-the lumberdwarf commissioned me to kill the last five warchiefs.%
-the warchiefs are dead, and the continent is free of the orc, i'm dubbed a true hero.%
-my scouts tell me the warchiefs are beserkers, things of nightmares, orcs that are quick paced and relentless.%
-i'm a simple labourer, but i've assumed position as leader over some of my men, to help us stay together.%
-work%
-the only work i have is to plow%
-i help out around the farm, that's all%
-work%
-you've already done enough for me, thank you%
-i'm just here to help our production%
-work%
-aye, the work is hard, but rewarding%
-im a miner, the true occupation for a dwarf%
-work%
-i have enough to do, i'm sure you can find something to do as well%
-im a lumberdwarf, i collect wood for the settlement%
-work%
-i've got plenty of work to do, but none for you%
-i'm a hunter, i gather hides from game%
-first time greeting%
-default greeting%
-work%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
-the occupation or job of the NPC%
-first time greeting%
-default greeting%
-work%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
-the occupation or job of the NPC%
-this is quite a nice farm, i wonder who lives here%
-i wouldnt mind staying here for awhile%
-work%
-i havent got any work for you, but we ought to look for more people to join our settlement%
-i'm the caravan master, i lead this caravan wherever its needed%
-first time greeting%
-default greeting%
-work%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
-the occupation or job of the NPC%
-first time greeting%
-default greeting%
-work%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
-the occupation or job of the NPC%
-first time greeting%
-default greeting%
-work%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
-the occupation or job of the NPC%
-first time greeting%
-default greeting%
-work%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
-the occupation or job of the NPC%
-first time greeting%
-default greeting%
-work%
-starting quest dialog (repeats) - (flag question -above- is the dialog option name that the player sees, eg 3. work%
-the occupation or job of the NPC%
-work%
-i have enough to do, i'm sure you can find something to do as well%
-im a lumberdwarf, i collect wood for the settlement%
-how glad i am to see you!%
-thanks for your help, lets get out of here.%
-work%
-i dont have any work for you now, maybe when we get back to your settlement%
-i'm a foreman, i'm a master in my trade, i can help you build larger constructions and upgrade your current ones%
-we could use a storage tent, to keep supplies for more constructions.%
-hello again, do you need my services?%
-storage tent%
-yes, a storage tent would be a good start for the settlement, you'll need to gather some wood and leather to build one.%
-it's a good thing we have this storage tent, we should be able to construct larger buildings now.%
-i'm very grateful to be here, i'm glad my services will be of use.%
-the physician recommends i build a storage tent to begin expanding our settlement.%
-i've built a storage tent, the physician says we could use some workers to help fill it.%
-i know of a few safer areas nearby, you should begin your adventure there. You'll need to scout the area, though, before you can travel there.%
-our physician showed me some places on the map i can explore.%
-i'm a highly trained physician, i can cure all sorts of ailments... for coin, of course.%
-be careful when exploring caves, they're always full of monsters, all kinds%
+кстати о навыках, у нас тут должен быть кузнец. Я знаю одного товарища, который живёт поблизости, возможно, ты мог бы уговорить его присоединиться к нашему поселению.%
+всегда хорошо иметь несколько талантливых рук.%
+кажется, всё идёт довольно хорошо. приятно видеть, что наши родичи снова собираются вместе.%
+строитель попросил меня позвать его друга, кузнеца, присоединиться к нашему поселению.%
+строитель был рад, что его друг, кузнец, присоединился к нашему поселению.%
+к северу отсюда есть несколько хлопковых ферм. Я не уверен, сколько ещё работает, но стоило бы посмотреть.%
+строитель сказал, что к северу отсюда находятся несколько хлопковых ферм, и отметил несколько мест на моей карте.%
+Я бригадир, строительство - моя профессия. Я прослежу, чтобы у наших рабочих была крыша над головой.%
+не расслабляйся, герой. Ты не столкнёшься с медлительными врагами, как раньше, эти военачальники быстры и носят мощное оружие.%
+да здравствует герой, у меня для тебя есть последнее задание, если ты согласен, то это будет для тебя настоящим испытанием.%
+орочьи военачальники должны быть истреблены, чтобы обеспечить вечный мир и выживание для наших родичей.%
+последнее задание%
+на этом континенте осталось ещё пять орочьих военачальников. Все они обитают в юго-восточных пустошах. победи их, и ты станешь легендой.%
+ты освободил наших родичей, низверг наших врагов и обеспечил вечный мир для нашего вида. Молодец, герой.%
+для меня большая честь быть рядом с тобой, герой, книги и песни будут написаны о твоих деяниях.%
+лесной гном поручил мне убить последних пяти военачальников.%
+военачальники мертвы, континент освобождён от орков, а меня прозвали настоящим героем.%
+мои разведчики рассказали, что военачальники - это берсерки, сущие кошмары, орки, которые быстры и беспощадны.%
+я простой работяга, но я возглавил нескольких из нас, чтобы помочь нам сплотиться вместе.%
+работа%
+единственная моя работа - пахать%
+я помогаю по хозяйству, вот и всё%
+работа%
+ты уже сделал достаточно для меня, спасибо%
+я здесь, чтобы помогать нашему производству%
+работа%
+да, работа тяжёлая, но полезная%
+я шахтёр, истинное занятие для гнома%
+работа%
+у меня достаточно дел, уверен, ты тоже найдёшь, чем заняться%
+я лесной гном, я собираю древесину для поселения%
+работа%
+у меня много работы, но не для тебя%
+я охотник, я собираю шкуры из дичи%
+первое приветствие%
+приветствие по умолчанию%
+работа%
+начало задания (повторяется) - (flag question -above- - название параметра диалога, который видит игрок, например, 3. работа%
+профессия или работа НИПа%
+первое приветствие%
+приветствие по умолчанию%
+работа%
+начало задания (повторяется) - (flag question -above- - название параметра диалога, который видит игрок, например, 3. работа%
+профессия или работа НИПа%
+это довольно хорошая ферма, интересно, кто здесь живёт%
+я не против остаться здесь ненадолго%
+работа%
+у меня нет для тебя работы, но мы должны искать больше людей, которые присоединятся к нашему поселению%
+я караванщик, я веду этот караван везде, где он нужен.%
+первое приветствие%
+приветствие по умолчанию%
+работа%
+начало задания (повторяется) - (flag question -above- - название параметра диалога, который видит игрок, например, 3. работа%
+профессия или работа НИПа%
+первое приветствие%
+приветствие по умолчанию%
+работа%
+начало задания (повторяется) - (flag question -above- - название параметра диалога, который видит игрок, например, 3. работа%
+профессия или работа НИПа%
+первое приветствие%
+приветствие по умолчанию%
+работа%
+начало задания (повторяется) - (flag question -above- - название параметра диалога, который видит игрок, например, 3. работа%
+профессия или работа НИПа%
+первое приветствие%
+приветствие по умолчанию%
+работа%
+начало задания (повторяется) - (flag question -above- - название параметра диалога, который видит игрок, например, 3. работа%
+профессия или работа НИПа%
+первое приветствие%
+приветствие по умолчанию%
+работа%
+начало задания (повторяется) - (flag question -above- - название параметра диалога, который видит игрок, например, 3. работа%
+профессия или работа НИПа%
+работа%
+у меня достаточно дел, уверен, ты тоже найдёшь, чем заняться%
+я лесной гном, я собираю древесину для поселения%
+как же я рад тебя видеть!%
+спасибо за помощь, давай выбираться отсюда.%
+работа%
+у меня сейчас нет для тебя работы, возможно, она найдётся, когда мы вернёмся в поселение%
+я бригадир, я профессионал в своей области, я могу помочь построить самые большие строения и улучшить уже построенные%
+мы могли бы использовать шатёр для хранения, чтобы запасать припасы для других построек.%
+Снова здравствуй, нужны мои услуги?%
+шатёр для хранения%
+да, шатёр для хранения был бы хорошим началом нашего поселения, тебе нужно собрать немного древесины и кожи для его постройки.%
+отлично, у нас появился шатёр для хранения, теперь мы сможем возводить другие строения.%
+я очень признателен, что я здесь, и рад, что мои услуги будут полезны.%
+лекарь рекомендует мне построить шатёр для хранения, чтобы мы могли расширять наше поселение.%
+я построил шатёр для хранения, лекарь сказал, что мы могли бы использовать несколько рабочих, чтобы заполнить его.%
+я знаю несколько безопасных районом поблизости, тебе стоит начать своё путешествие оттуда. Однако, тебе сначала придётся разведать область, чтобы отправиться туда.%
+наш лекарь показал мне несколько мест на карте, которые можно изучить.%
+я первоклассный лекарь, я могу вылечить все виды болезней... за монеты, конечно.%
+будь осторожен при исследовании пещер, они всегда полны монстров, всех видов%
 not a bad little thing you've got going here, i'm sure it will grow%
 i'd really like to have a forge up and running%
-work%
+работа%
 i havent got any work for you now, perhaps if you get a forge built, i'd have more for you to do%
 we'll need some stone to get a forge running, i heard there's a good source to the east%
 the town smithy told me a cave east of here had a good supply of stone.%
@@ -146,7 +146,7 @@ i'm a blacksmith by trade, my family mastered the art long ago, and we've not fo
 keep building up your settlement, you'll attract more dwarfs to come and settle, we're stronger in numbers%
 greetings hero, you have quite the establishment here, i couldnt pass the opportunity to stop by for a drink%
 fine day, isnt it?%
-work%
+работа%
 now that you mention it, you might be able to help me out. an old friend of mine went missing, gurt was the name, if you hear from him, do let me know.%
 i never thought you'd find my ol'mate, thank you%
 hail kin, you are quite the hero%
@@ -155,7 +155,7 @@ the merchant was pleased to know his friend is alright, he seems interested in s
 i use to be a travelling merchant, but i'm completely out of stock, it might take some time to get me back on my feet%
 greetings hero, i have a few items for sale, and i have some gold im willing to trade for equipment%
 i'd have a lot more if we built a trade depot, i might be able to coax some other merchants to come%
-work%
+работа%
 if you dont mind, i'd like you to visit an old friend of mine, he lives in a hovel by the lake south of here. I'll pay to know he's still alive.%
 thanks for visiting that old fool for me. He'll never change, wiles and all.%
 greetings hero, i have a few items for sale, and i have some gold im willing to trade for equipment%
@@ -178,7 +178,7 @@ i'm the caravan master, i lead this caravan wherever its needed.%
 you'll need many resources to build up your settlement, it could take some time, but the easiest way to get them is to plunder them from nearby regions.%
 greetings kin, i'm a ranger, i've been around these parts for quite some time, i hope you dont mind me staying here for awhile.%
 it's a fine day for hunting, dont you think?%
-work%
+работа%
 a ghastly goblin shaman has been elluding me for months, i think he's camped in the forests south of here, please slay him if you can, ill reward it.%
 i'm glad to be rid of that foul creature, all thanks to you, kin.%
 hail hero! how goes?%
@@ -479,16 +479,16 @@ have... have you come to save me?%
 i'm so thankful! i'm forever in your debt. i'll come with you, and hopefully stay out of trouble from now on%
 thank the heavens! they were going to eat me! please, i'm a trained physician, i'm sure you could use my services%
 they say the continent is almost entirely overrun, i'm not sure if there are even any dwarf settlements left%
-take your time looking for resources, you can find them in more places than you might think.%
-it seems my wheel has broken off my wagon, i'll need some wood to get it fixed, think you can help?%
-have you found any timber to fix my wheel?%
-yes, i'll need about 10 wood to get it back up and on its feet, you might be able to find some around here.%
-i should have it fixed in a jiffy, thanks to you.%
-i should have this wheel fixed up in no time. now where would you like to go?%
-the wagon has broken down, and it will need 10 wood to get it working again, perhaps i'll find some around here.%
-the wagon is fixed up and we're ready to get back on with our journey.%
-i think there is a nice place nearby where we can start our settlement, but we'll need to get there first.%
-i'm a caravan leader, it's my job to take this caravan wherever it's required.%
+потрать время на поиски ресурсов, ты можешь найти их во многих местах, даже в тех, о которых ты мог бы и не подумать.%
+кажется, у моей повозки сломалось колесо, мне нужно немного древесины, чтобы починить его, думаешь, ты сможешь мне помочь?% 
+ты нашёл древесину, чтобы починить колесо?%
+да, мне потребуется около 10 древесины, чтобы всё сделать, ты можешь найти её неподалёку.%
+благодаря тебе я починил его в один миг.%
+я починил это колесо в два счёта. а теперь, куда бы ты хотел отправиться?%
+повозка сломана, понадобится около 10 древесины, чтобы починить её, возможно, я найду её неподалёку.%
+повозка отремонтирована, и мы готовы продолжить наше путешествие.%
+думаю, что недалеко есть хорошее местечко, где мы можем заложить наше поселение, но нам нужно добраться туда первыми.%
+я караванщик, моя работа заключается в доставке этого каравана туда, куда потребуется.%
 our ancestors lived in the earth, but over the last century, nothing but foul creatures have infested the depths%
 greetings adventurer, like my fellow acolytes i stand guard over our ancestoral ruins, preserving the powerful rune magic.%
 only a worthy hero who is learned in the ways of runes can interact with runic architecture%
