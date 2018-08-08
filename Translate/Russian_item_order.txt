@@ -1,0 +1,1 @@
+prefix+material+type+suffix

@@ -1,0 +1,40 @@
+Initialize engine version: 2017.2.0f3 (46dda1414e51)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   23.21.13.9101
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.106 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 8 -> priority: 1 
+  Thread -> id: 141c -> priority: 1 
+  Thread -> id: 1b58 -> priority: 1 
+  Thread -> id: 3da8 -> priority: 1 
+UnloadTime: 2.925575 ms
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/Regions Of Ruin/Regions of Ruin_Data/Mono/data-1B639330.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/Regions Of Ruin/Regions of Ruin_Data/Mono/data-1B76E008.dll
+Fallback handler could not load library D:/SteamLibrary/steamapps/common/Regions Of Ruin/Regions of Ruin_Data/Mono/data-1CD36020.dll
+Rewired: Searching for compatible XInput library...
+Rewired: Found Xinput1_4.dll.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.410057 ms
+Rewired: Searching for compatible XInput library...
+Rewired: Found Xinput1_4.dll.
+
+Unloading 849 unused Assets to reduce memory usage. Loaded Objects now: 18691.
+Total: 37.613386 ms (FindLiveObjects: 0.931001 ms CreateObjectMapping: 1.183316 ms MarkObjects: 32.470428 ms  DeleteObjects: 3.027357 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.390007 ms
+Rewired: Searching for compatible XInput library...
+Rewired: Found Xinput1_4.dll.
+
+Unloading 16097 unused Assets to reduce memory usage. Loaded Objects now: 22052.
+Total: 39.676813 ms (FindLiveObjects: 1.830355 ms CreateObjectMapping: 3.200984 ms MarkObjects: 31.169079 ms  DeleteObjects: 3.475965 ms)
+

@@ -1,0 +1,517 @@
+атака%
+метание%
+щит%
+мощный удар%
+ближний бой%
+дальний бой%
+базовое здоровье%
+включите эту способность, чтобы совершать стандартные быстрые удары, используя [[MappedKey:Attack]]%
+включите эту способность, чтобы совершить три более быстрых последовательных ударов с 30$ снижением урона.%
+включите эту способность, чтобы увеличить силу отталкивания врагов назад вашими атаками.%
+включите эту способность, чтобы игнорировать блокирование щитами, но с 25$ снижением урона.%
+добавляет урон от кровотечения в течение 6 секунд врагам, удваивая ваш общий урон.%
+удваивает шанс нанесения критического удара быстрыми ударами.%
+удваивает пробитие брони быстрыми ударами.%
+увеличивает скорость атаки быстрых ударов на 20$.%
+разблокируйте эту способность, чтобы получить возможность атаковать и делать рывок одновременно.%
+наносите в 4 раза больше урона оглушённым врагам, вместо двойного урона.%
+внезапные атаки ближнего боя наносят в 12 раз больше урона врагам.%
+Двигайтесь быстрее, когда крадётесь, оставайтесь более незаметным и отравляйте при ударе.%
+when using the unblockable ability, hitting shielding enemies stuns them instead of you.%
+все удары ближнего боя не имеют ограничения на разрубание.%
+владение клинками, удваивает весь наносимый урон в ближнем бою.%
+включите этот навык, чтобы получить возможность использовать метательные топоры. Для метания зажмите, а затем отпустите [[MappedKey:Throw]]%
+включите эту способность, чтобы значительно увеличивайте скорость, с которой вы сможете бросать топоры.%
+включите эту способность, чтобы использовать топор-кошку, который может вцепиться во врага и притянуть его к вам.%
+включите эту способность, чтобы бросать сразу два топора, но немного медленнее.%
+снижает откат всех метательных навыков на 20$.%
+увеличивает максимальное расстояние, на которое вы сможете метать свой топор.%
+удваивает силу, с которой ваши топоры будут отталкивать врагов%
+удваивает шанс нанести критический удар метательным топором.%
+чем дальше вы нацеливаете свой топор, тем больше он нанесёт урона (удваивает урон на максимальном расстоянии).%
+добавляет урон от кровотечения врагам на 6 секунд, удваивая ваш общий урон.%
+удары по врагам топором-кошкой будут оглушать их.%
+владение метательными топорами, удваивает весь наносимый урон метательными топорами.%
+позволяет бросать сразу три топора вместо двух.%
+включите эту способность, чтобы использовать ваш щит, используя [[MappedKey:Shield]]%
+включите эту способность, чтобы регенерировать здоровье при поднятом щите, но медленнее, чем обычно.%
+включите эту способность, чтобы блокировать 100$ урона при поднятом щите, но с замедлением движения.%
+включите эту способность, чтобы наносить удар щитом при поднятии его.%
+удваивает все базовые сопротивления стихиям.%
+позволяет совершать рывок при поднятом щите, оглушая врагов.%
+двигайтесь в 2 раза быстрее при поднятом щите.%
+сокращает время оглушения, полученного при поднятом щите.%
+снижает шанс получения ранений на 50$%
+враги оглушены в 2 раза дольше при блокировании их ударов щитом или нанесении им удара щитом.%
+удваивает рейтинг брони ваших шлемов.%
+удваивает рейтинг брони вашей брони.%
+отражает 100$ полученного урона обратно во врагов.%
+удары по врагам щитом наносят урон, основанный на вашем рейтинге брони.%
+удваивает рейтинг брони ваших щитов.%
+включите эту способность, чтобы наносить в 3 раза больше урона мощным ударом, используя [[MappedKey:PowerAttack]]%
+включите эту способность, чтобы бить по земле, подбрасывая врагов в воздух и удваивая время оглушения.%
+включите эту способность, чтобы удвоить урон мощных ударов, но потерять возможность пробивать щиты.%
+включите эту способность, чтобы создавать ударную волну мощными ударами, нанося 25$ общего урона.%
+увеличивает скорость нанесения мощных ударов на 20$.%
+мощные удары будут наносить в 4 раза больше урона оглушённым врагам, вместо двойного.%
+удваивает отталкивающую силу всех мощных ударов.%
+удваивает время оглушения врагом мощными ударами.%
+снижает расход выносливости мощными ударами на 30$%
+удваивает шанс нанесения критического удара мощными ударами по оглушённым врагам.%
+удваивает урон при нанесении критических ударов мощными ударами.%
+мощные удары игнорируют всю броню.%
+ударная волна наносит 50$ урона от мощного удара.%
+мощные удары по оглушённым врагам имеют 10$ шанс добивания (не работает на боссах).%
+слухи%
+профессия%
+совет%
+торговать%
+вылечить%
+починить%
+следовать%
+ждать%
+в путь%
+играть%
+характеристики%
+Нажмите [[MappedKey:Skills]], чтобы отправиться в путешествие%
+откройте любое меню, чтобы получить уровень%
+вялый%
+очень медленно%
+медленно%
+нормально%
+brisk%
+быстро%
+очень быстро%
+стремительно%
+головокружительно%
+очень слабый%
+слабый%
+regular%
+sturdy%
+tough%
+very tough%
+джаггернаут%
+неудержимый%
+normal%
+defensive%
+aggressive%
+следовать%
+ждать%
+нанять%
+Малые повязки залечат одно малое ранение.%
+Большие повязки залечат одно малое и одно большое ранения.%
+Зелья вылечат все ранения и эффекты.%
+кожаная шапка%
+железный шлем%
+бронзовый шлем%
+стальной шлем%
+адамантовый шлем%
+кожаная броня%
+железная броня%
+бронзовые латы%
+стальные латы%
+адамантовая броня%
+деревянный баклер%
+железный каплевидный щит%
+бронзовый щит%
+стальной защитник%
+адамантовый каплевидный щит%
+меч%
+топорик%
+двуручный меч%
+двуручный топор%
+боевой молот%
+алебарда%
+The campfire is where you train and upgrade your skills. It also improves how much area you can scout at one time.%
+upgrading this building will increase your maximum resource storage capacity, allowing you to hold and maintain much more resources.%
+the tavern will attract nearby adventurers to hire, and generate profit, depending on the size of the tavern.%
+the blacksmith can be used to dismantle and forge new equipment, with an improved forge you can build superior armour and weaponry.%
+enables crafting of useful potions and bandages to use when away from your settlement.%
+used to refine ore into useful metals, the better your refinery, the better materials you can glean.%
+the trade depot will provide a place for traders to come and unload goods. A larger depot will attract more caravans.%
+the library will help you to study completed volumes of books you find to gain greater knowledge.%
+the market will attract labourers to come and trade their goods. you can buy and sell resources here.%
+the runeforge will enable you to imbue items with magical properties, using essence from dissolved items.%
+костёр%
+хранилище%
+таверна%
+кузница%
+аптека%
+переработчик%
+торговая станция%
+библиотека%
+рынок%
+рунная кузница%
+наполненная сущность%
+сопротивление огню%
+сопротивление холоду%
+сопротивление яду%
+сопротивление молнии%
+сила%
+ловкость%
+телосложение%
+ %
+отравление%
+горение%
+кровотечение%
+отталкивание%
+заморозка%
+оглушение%
+обращение%
+рывок%
+ударная волна%
+огонь%
+вампиризм%
+холод%
+ %
+ %
+ %
+ %
+ %
+ %
+ %
+ %
+урон при метании%
+общий урон%
+отражение%
+регенерация%
+шанс оглушения%
+сопротивление%
+ %
+ %
+ %
+ %
+ %
+ %
+самая лёгкая сложность, для слабаков, а не для гномов.%
+обычная сложность для обычных людей.%
+тяжёлая сложность, для тех, кто чувствует себя отважным.%
+мазохистская сложность, откроется при прохождении игры.%
+Вы в прекрасном состоянии%
+Вы в хорошем состоянии%
+Вы в неплохом состоянии%
+Слегка побит%
+Несильно ранен%
+Ранения%
+Тяжело ранен%
+Корёжится от сильной боли%
+Теряет сознание от сильной боли%
+Борется за свою жизнь%
+В предсмертном состоянии%
+Задавлен до смерти%
+Отравленная кровь%
+Сильное отравление%
+Серьёзное отравление%
+Смертельно болен%
+приятель, да ты нафарширован!%
+Горение%
+Серьёзное горение%
+Пылание%
+Объят огнём%
+Гори, детка, гори!!%
+фили%
+дерни%
+вилли%
+нюхач%
+бобслоу%
+дерик%
+кёрн%
+свиф%
+ниша%
+кили%
+бофур%
+кофур%
+когнум%
+хорек%
+вэлки%
+баки%
+лоб%
+нодди%
+флетч%
+letching%
+кург%
+риг%
+гурн%
+тугом%
+гором%
+cog%
+kogrem%
+sledge%
+rocky%
+thwup%
+thwap%
+nugget%
+stehl%
+oren%
+cuff%
+cruck%
+loofy%
+когнум%
+durk%
+pobmur%
+ned%
+kurk%
+derk%
+lofur%
+zarn%
+trunk%
+flupe%
+darky%
+cuts%
+polma%
+peft%
+murg%
+mug%
+helk%
+mork%
+dren%
+dane%
+lucky%
+nifty%
+ryne%
+gurt%
+bert%
+rolph%
+hicup%
+underho%
+ofta%
+bombur%
+porp%
+crane%
+lobber%
+cach%
+kerid%
+flunk%
+snob%
+knuckle%
+bump%
+axel%
+rellie%
+gren%
+yort%
+vane%
+sneckle%
+kur%
+virn%
+venom%
+sil%
+remington%
+cart%
+tom%
+bill%
+iren%
+baka%
+borin%
+sleeper%
+greeny%
+bunky%
+vile%
+zark%
+zorn%
+zane%
+vane%
+menam%
+urist%
+cog%
+баки%
+belt%
+fry%
+chinny%
+hecky%
+harold%
+jed%
+bolt%
+pickle%
+grid%
+unem%
+berid%
+offur%
+bilfur%
+bored%
+obek%
+стремительный выстрел%
+the nuisance%
+the blindshot%
+potshotty%
+stray arrow%
+bullseye%
+the cluts%
+duck bait%
+frog eye%
+razor%
+the heavy%
+sledgehammer%
+rockmallet%
+boulder%
+the sturdy%
+irontoe%
+cleffhit%
+bronze beard%
+the weighty%
+the rhino%
+the brave%
+the stupid%
+quickfoot%
+the rallier%
+tripover%
+the courageous%
+the spelunker%
+delver%
+knocked%
+empty ears%
+beard cutter%
+the bold%
+strong arm%
+мастера меча%
+the thrower%
+the wishful%
+the boast%
+throw fist%
+праща%
+boulder thrower%
+отравитель%
+the sneaky%
+the razor%
+боль%
+backstabber%
+the lofty%
+swiftfoot%
+darkwalker%
+the lost%
+the secretive%
+the deadshot%
+яблочко%
+механик%
+the trigger-happy%
+баллиста%
+the cranky%
+bolted%
+бронза%
+латунный болт%
+backfired%
++ найдена новая страница%
+цена%
+мощность снаряда%
+урон%
+отражение%
+регенерация%
+шанс оглушения%
+сопротивление%
+яд%
+ожог%
+кровотечение%
+force%
+заморозка%
+оглушение%
+обращение%
+рывок%
+шок%
+огонь%
+вампиризм%
+холод%
+шлем%
+броня%
+лёгкое оружие%
+среднее оружие%
+тяжёлое оружие%
+щит%
+амулет%
+кольцо%
+малая повязка%
+большая повязка%
+зелье%
+урон%
+макс. разрубание%
+шанс крита%
+крит. урон%
+пробитие брони%
+рейтинг брони%
+сопр. физ. ур.%
+сопр. огню%
+сопр. холоду%
+сопр. яду%
+сопр. электр.%
+сила%
+ловкость%
+телосложение%
+Increase your maximum storage capacity by 250%
++1 blacksmith bonus roll%
+Increase your maximum storage capacity by 500%
+Triple your chances of finding book segments%
+Increase your maximum storage capacity by 1000%
+Glean twice as much essence when dissolving magic items%
+Boost your exploration range%
+Reduce Vendor prices by 50$%
+Reduce Market prices by 50$%
+Get +5 workers for your settlement%
+Glean twice as many resources from your refinery%
+increase the quality of your forged items by 50$%
+Add 1,000 to the total essence you can imbue with your runeforge%
+Double the Maximum Health and Damage of Companions%
+Хранить свыше 1,000,000 меди одновременно%
+Хранить свыше 1,000,000 железа одновременно%
+Хранить свыше 1,000,000 бронзы одновременно%
+Хранить свыше 1,000,000 серебра одновременно%
+Хранить свыше 1,000,000 золота одновременно%
+Хранить свыше 1,000,000 адамантина одновременно%
+Иметь скорость поиска свыше 500$ оч./с%
+Иметь скорость добычи свыше 10,000 оч./с%
+Иметь скорость переработки свыше 20,000 оч./с%
+Иметь до 20 рабочих одной роли%
+Собрать свыше 10,000,000 серебра%
+Собрать свыше 10,000,000 золота%
+Собрать свыше 10,000,000 адамантина%
+Купить все артефакты%
+2x поиск руды%
++50$ скорость переработки%
++50$ скорость поиска%
+2x Refinery Yield%
+-20$ цены магазина%
++100$ скорость добычи%
+x5 скорость рабочих%
+-50$ цены магазина%
++1 качество жилы%
++2 качество жилы%
+2x Mining Yield%
+10x скорость обработки меди%
+пусто%
+автосохранение%
+Dwarven kin had led a Golden age of complacency across the continent. The great Centaur-Human war, however, caused the Dwarves to shun the overworld, their Caste Lords locked themselves into the mountains for centuries. When the doors finally opened, ending centuries of silence, all was not as it should have been...%
+What the dwarves discovered was that the entire continent had changed. Neither human nor centaur remained. The land, once bustling with activity and trade, was now peppered with Goblin, Lich, and Kobold enclaves. The doors now opened, countless thousands of covetous eyes now turned to the Undercities of the dwarves...%
+Dwarven kin fought fiercely, but were soon exiled to the surface, enslaved, captured and ousted from their homes. Now, far from their mountain cores, far from their heritage, the Dwarves slowly sought to reconquer the lands...%
+With the Dwarven race scattered, mere refugees and vagabonds, It will take a hero to bring them together, and restore the once mighty Dwarven Kingdom...%
+нажмите [MappedKey:Dash], чтобы пропустить%
+< нажмите любую клавишу для продолжения >%
+With the wagon finally fixed, you head west. The area near the vale is lush and expansive. More than enough to house hundreds of dwarves...%
+you are unsure how many dwarves remain in these lands, but a strong rally shall beckon them, and your colony will grow...%
+пусто%
+автосохранение%
+загрузить игру?%
+да%
+нет%
+with the goblin king dead, and the homeward passage revealed, the dwarf kind look to the mountain of rothgar.
+
+now the true journey begins for the dwarves. to expedition the depths, to find their ancestors, to become what they were destined for.
+
+but who will lead these refugees, who will guide them through the darkness, to establish dwarf kind once and for all...%
+congratulations, you've conquered this region, and liberated your kin.%
+hitting a stunned enemy doubles the damage of your hit%
+when you block a regular attack you reduce the damage taken by 90$ and stun the attacker%
+power hits are three times as powerful as a normal hit%
+rumours are a good way to find more places to explore%
+your critical chance is doubled when hitting a stunned or unsuspecting foe%
+some enemies get stunned longer than others%
+you can change the difficutly at any time in the option settings%
+when sneaking you can almost hide indefinitely behind objects like crates and chests%
+throwing axes can hit multiple enemies at once, if your foes stand close together%
+you can dodge almost anything when you dash, including oncoming projectiles%
+dont forget to use your shield to block arrows and spears, it deflects them entirely%
+when sneaking, enemeis will not detect you if they are facing the other way%
+regular attacks will stop your power hits, but projectiles wont%
+without critical strikes, you can get up to 18 times damage with a single hit if you plan it right%
+some foes block more than 50$ with their armour, which makes armour penetration more useful%
+defensive companions receive less damage, but wont spot enemies until they're close%
+aggressive companions wont hesitate to attack, but will spot enemies from further away%
+with 2,000 essence you can enchant 100$ resistance into any element%
+all hope is lost%
+- нажмите '[MappedKey:Submit]', чтобы продолжить -%
